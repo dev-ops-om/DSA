@@ -4,5 +4,4 @@
 - **Link**: [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
 - **Date Solved**: 2026-07-02
 - **Language**: cpp
-
-> **Note**: Source code was not available via API. Add your solution manually.
+- **Difficulty**: Medium

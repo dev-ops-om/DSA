@@ -6,10 +6,8 @@ Collection of solved problems from various competitive programming platforms.
 
 | Platform | Problems | With Code |
 |----------|----------|-----------|
-| Leetcode | 19 | 0 |
-| GFG | 0 | 0 |
-| Codechef | 0 | 0 |
-| **Total** | **19** | **0** |
+| Leetcode | 19 | 19 |
+| **Total** | **19** | **19** |
 
 ## 📁 Structure
 
