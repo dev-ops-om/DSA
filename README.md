@@ -6,8 +6,8 @@ Collection of solved problems from various competitive programming platforms.
 
 | Platform | Problems | With Code |
 |----------|----------|-----------|
-| Leetcode | 19 | 19 |
-| **Total** | **19** | **19** |
+| Leetcode | 151 | 151 |
+| **Total** | **151** | **151** |
 
 ## 📁 Structure
 
