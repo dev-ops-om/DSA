@@ -1,10 +1,6 @@
 # Search in a sorted Matrix
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Search in a sorted Matrix](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

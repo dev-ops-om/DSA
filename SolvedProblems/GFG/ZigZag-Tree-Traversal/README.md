@@ -1,10 +1,6 @@
 # ZigZag Tree Traversal
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/zigzag-tree-traversal
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [ZigZag Tree Traversal](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

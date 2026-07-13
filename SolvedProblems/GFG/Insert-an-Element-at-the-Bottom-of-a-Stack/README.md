@@ -1,10 +1,6 @@
 # Insert an Element at the Bottom of a Stack
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/insert-an-element-at-the-bottom-of-a-stack
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Insert an Element at the Bottom of a Stack](https://www.geeksforgeeks.org/problems/insert-an-element-at-the-bottom-of-a-stack)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

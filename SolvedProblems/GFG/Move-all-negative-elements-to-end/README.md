@@ -1,10 +1,6 @@
 # Move all negative elements to end
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

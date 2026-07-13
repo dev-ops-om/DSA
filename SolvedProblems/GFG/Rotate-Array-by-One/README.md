@@ -1,10 +1,6 @@
 # Rotate Array by One
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

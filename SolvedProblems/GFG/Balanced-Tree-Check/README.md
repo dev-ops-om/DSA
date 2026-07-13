@@ -1,10 +1,6 @@
 # Balanced Tree Check
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/check-for-balanced-tree
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Balanced Tree Check](https://www.geeksforgeeks.org/problems/check-for-balanced-tree)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

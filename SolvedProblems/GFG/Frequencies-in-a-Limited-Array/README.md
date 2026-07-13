@@ -1,10 +1,6 @@
 # Frequencies in a Limited Array
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Frequencies in a Limited Array](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

@@ -1,10 +1,6 @@
 # Palindrome String
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/palindrome-string0817
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Palindrome String](https://www.geeksforgeeks.org/problems/palindrome-string0817)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

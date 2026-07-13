@@ -1,10 +1,6 @@
 # Subarrays With At Most K Distinct
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/subarrays-with-at-most-k-distinct-integers
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Subarrays With At Most K Distinct](https://www.geeksforgeeks.org/problems/subarrays-with-at-most-k-distinct-integers)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

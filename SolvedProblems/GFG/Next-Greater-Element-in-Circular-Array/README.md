@@ -1,10 +1,6 @@
 # Next Greater Element in Circular Array
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/next-greater-element
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Next Greater Element in Circular Array](https://www.geeksforgeeks.org/problems/next-greater-element)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

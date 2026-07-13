@@ -1,10 +1,6 @@
 # Directed Graph Cycle
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Directed Graph Cycle](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

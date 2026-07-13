@@ -1,10 +1,6 @@
 # Smallest subarray with sum greater than x
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Smallest subarray with sum greater than x](https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

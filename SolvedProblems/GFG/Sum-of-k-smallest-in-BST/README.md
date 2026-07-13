@@ -1,10 +1,6 @@
 # Sum of k smallest in BST
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst3029
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Sum of k smallest in BST](https://www.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst3029)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

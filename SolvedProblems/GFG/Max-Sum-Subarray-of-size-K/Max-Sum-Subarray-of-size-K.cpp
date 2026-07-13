@@ -1,4 +1,18 @@
-// Source code not available without GFG session cookie.
-// Problem: Max Sum Subarray of size K
-// Link: https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+  public:
+    int maxSubarraySum(vector<int>& arr, int k) {
+        int n=arr.size();
+        int ans=INT_MIN;
+    
+        int sum=0;
+ for(int i=0;i<k;i++){
+     sum+=arr[i];
+ }
+ ans=sum;
+ for(int i=k;i<n;i++){
+     sum+=arr[i]-arr[i-k];
+     ans=max(ans,sum);
+ }
+ return ans;
+    }
+};

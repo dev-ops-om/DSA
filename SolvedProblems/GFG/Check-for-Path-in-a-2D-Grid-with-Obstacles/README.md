@@ -1,10 +1,6 @@
 # Check for Path in a 2D Grid with Obstacles
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/find-whether-path-exist5238
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Check for Path in a 2D Grid with Obstacles](https://www.geeksforgeeks.org/problems/find-whether-path-exist5238)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

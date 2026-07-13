@@ -6,8 +6,8 @@ Collection of solved problems from various competitive programming platforms.
 
 | Platform | Problems | With Code |
 |----------|----------|-----------|
-| GFG | 3 | 3 |
-| **Total** | **3** | **3** |
+| GFG | 204 | 79 |
+| **Total** | **204** | **79** |
 
 ## 📁 Structure
 

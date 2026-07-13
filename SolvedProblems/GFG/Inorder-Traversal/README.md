@@ -1,10 +1,6 @@
 # Inorder Traversal
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/inorder-traversal
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Inorder Traversal](https://www.geeksforgeeks.org/problems/inorder-traversal)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

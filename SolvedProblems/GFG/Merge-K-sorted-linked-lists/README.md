@@ -1,10 +1,6 @@
 # Merge K sorted linked lists
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/merge-k-sorted-linked-lists
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Merge K sorted linked lists](https://www.geeksforgeeks.org/problems/merge-k-sorted-linked-lists)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

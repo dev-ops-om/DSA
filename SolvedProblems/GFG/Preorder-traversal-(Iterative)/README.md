@@ -1,10 +1,6 @@
 # Preorder traversal (Iterative)
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/preorder-traversal-iterative
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Preorder traversal (Iterative)](https://www.geeksforgeeks.org/problems/preorder-traversal-iterative)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

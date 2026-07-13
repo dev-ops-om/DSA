@@ -1,10 +1,6 @@
 # Convert String to LowerCase
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/convert-string-to-lowercase
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Convert String to LowerCase](https://www.geeksforgeeks.org/problems/convert-string-to-lowercase)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

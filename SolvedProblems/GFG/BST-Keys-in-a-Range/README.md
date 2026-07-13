@@ -1,10 +1,6 @@
 # BST Keys in a Range
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/print-bst-elements-in-given-range
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [BST Keys in a Range](https://www.geeksforgeeks.org/problems/print-bst-elements-in-given-range)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

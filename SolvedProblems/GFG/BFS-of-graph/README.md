@@ -1,10 +1,6 @@
 # BFS of graph
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [BFS of graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

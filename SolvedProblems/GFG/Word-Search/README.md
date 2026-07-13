@@ -1,10 +1,6 @@
 # Word Search
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/word-search
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Word Search](https://www.geeksforgeeks.org/problems/word-search)
+- **Date Solved**: 2026-02-02
+- **Language**: cpp

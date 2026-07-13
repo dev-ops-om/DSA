@@ -1,10 +1,6 @@
 # Aggressive Cows
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/aggressive-cows
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows)
+- **Date Solved**: 2026-02-18
+- **Language**: cpp

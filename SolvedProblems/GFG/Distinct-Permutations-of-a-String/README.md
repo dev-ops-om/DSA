@@ -1,10 +1,6 @@
 # Distinct Permutations of a String
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Distinct Permutations of a String](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

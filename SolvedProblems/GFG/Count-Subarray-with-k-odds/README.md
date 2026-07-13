@@ -1,10 +1,6 @@
 # Count Subarray with k odds
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Count Subarray with k odds](https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

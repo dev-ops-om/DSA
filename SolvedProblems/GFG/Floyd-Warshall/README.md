@@ -1,10 +1,6 @@
 # Floyd Warshall
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Floyd Warshall](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

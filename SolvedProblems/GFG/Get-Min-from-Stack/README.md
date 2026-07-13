@@ -1,10 +1,6 @@
 # Get Min from Stack
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Get Min from Stack](https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack)
+- **Date Solved**: 2025-11-17
+- **Language**: cpp

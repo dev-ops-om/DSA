@@ -1,10 +1,6 @@
 # Count Non-Leaf Nodes in Tree
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Count Non-Leaf Nodes in Tree](https://www.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

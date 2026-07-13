@@ -1,10 +1,6 @@
 # Shortest Path in an Undirected Graph
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Shortest Path in an Undirected Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

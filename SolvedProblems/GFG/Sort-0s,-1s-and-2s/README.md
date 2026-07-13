@@ -1,10 +1,6 @@
 # Sort 0s, 1s and 2s
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Sort 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

@@ -1,10 +1,6 @@
 # Meeting Rooms
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/attend-all-meetings
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Meeting Rooms](https://www.geeksforgeeks.org/problems/attend-all-meetings)
+- **Date Solved**: 2026-03-22
+- **Language**: cpp

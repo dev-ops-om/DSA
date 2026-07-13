@@ -1,10 +1,6 @@
 # Two Stacks in an Array
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Two Stacks in an Array](https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

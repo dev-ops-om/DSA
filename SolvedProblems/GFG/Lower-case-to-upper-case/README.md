@@ -1,10 +1,6 @@
 # Lower case to upper case
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/lower-case-to-upper-case3410
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Lower case to upper case](https://www.geeksforgeeks.org/problems/lower-case-to-upper-case3410)
+- **Date Solved**: 2025-09-23
+- **Language**: cpp

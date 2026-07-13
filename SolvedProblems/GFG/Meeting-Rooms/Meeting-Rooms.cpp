@@ -1,4 +1,14 @@
-// Source code not available without GFG session cookie.
-// Problem: Meeting Rooms
-// Link: https://www.geeksforgeeks.org/problems/attend-all-meetings
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+  public:
+    bool canAttend(vector<vector<int>> &arr) {
+        // Code Here
+           sort(arr.begin(), arr.end());
+        for(int i = 1; i < arr.size(); i++) {
+            if(arr[i][0] < arr[i-1][1]) {
+                return false; // overlap
+            }
+        }
+        return true;
+
+    }
+};

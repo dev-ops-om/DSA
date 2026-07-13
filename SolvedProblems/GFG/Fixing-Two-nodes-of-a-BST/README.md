@@ -1,10 +1,6 @@
 # Fixing Two nodes of a BST
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Fixing Two nodes of a BST](https://www.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

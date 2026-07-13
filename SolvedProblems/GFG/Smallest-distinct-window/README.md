@@ -1,10 +1,6 @@
 # Smallest distinct window
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/smallest-distant-window3132
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Smallest distinct window](https://www.geeksforgeeks.org/problems/smallest-distant-window3132)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

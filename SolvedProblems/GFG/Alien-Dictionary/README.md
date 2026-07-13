@@ -1,10 +1,6 @@
 # Alien Dictionary
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/alien-dictionary
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Alien Dictionary](https://www.geeksforgeeks.org/problems/alien-dictionary)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

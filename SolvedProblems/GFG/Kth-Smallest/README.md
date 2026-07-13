@@ -1,10 +1,6 @@
 # Kth Smallest
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/kth-smallest-element5635
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Kth Smallest](https://www.geeksforgeeks.org/problems/kth-smallest-element5635)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

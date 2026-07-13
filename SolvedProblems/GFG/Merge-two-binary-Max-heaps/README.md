@@ -1,10 +1,6 @@
 # Merge two binary Max heaps
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/merge-two-binary-max-heap0144
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Merge two binary Max heaps](https://www.geeksforgeeks.org/problems/merge-two-binary-max-heap0144)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

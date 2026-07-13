@@ -1,10 +1,6 @@
 # Count the Zeros
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/count-the-zeros2550
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Count the Zeros](https://www.geeksforgeeks.org/problems/count-the-zeros2550)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

@@ -1,10 +1,6 @@
 # Largest BST
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/largest-bst
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Largest BST](https://www.geeksforgeeks.org/problems/largest-bst)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

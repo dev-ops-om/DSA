@@ -1,10 +1,6 @@
 # Height of Heap
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/height-of-heap5025
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Height of Heap](https://www.geeksforgeeks.org/problems/height-of-heap5025)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

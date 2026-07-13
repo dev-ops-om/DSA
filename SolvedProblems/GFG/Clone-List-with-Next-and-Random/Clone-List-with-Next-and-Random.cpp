@@ -1,4 +1,52 @@
-// Source code not available without GFG session cookie.
-// Problem: Clone List with Next and Random
-// Link: https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer
-// Add GFG_SESSION to .env and re-run to fetch full source.
+/*
+class Node {
+  public:
+    int data;
+    Node* next;
+    Node* random;
+
+    Node(int x) {
+        data = x;
+        next = NULL;
+        random = NULL;
+    }
+};
+*/
+Node *find(Node *curr1,Node *curr2,Node*x){
+    if(x==NULL){
+        return NULL;
+    }
+    while(curr1!=x){
+        curr1=curr1->next;
+        curr2=curr2->next;
+    }
+    return curr2;
+}
+
+class Solution {
+  public:
+    Node* cloneLinkedList(Node* head) {
+       Node *headcopy= new Node(0);
+       Node *tailcopy=headcopy;
+       
+       Node *temp=head;
+       while(temp){
+           tailcopy->next=new Node(temp->data);
+           tailcopy=tailcopy->next;
+           temp=temp->next;
+       }
+       tailcopy=headcopy;
+       headcopy=headcopy->next;
+       delete tailcopy;
+       
+       tailcopy=headcopy;
+       temp=head;
+       while(temp){
+           tailcopy->random=find(head,headcopy,temp->random);
+           tailcopy=tailcopy->next;
+           temp=temp->next;
+           
+       }
+       return headcopy;
+    }
+};

@@ -1,10 +1,6 @@
 # Knight Walk
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/knight-walk4521
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Knight Walk](https://www.geeksforgeeks.org/problems/knight-walk4521)
+- **Date Solved**: 2026-01-13
+- **Language**: cpp

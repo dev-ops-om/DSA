@@ -1,10 +1,6 @@
 # Array to BST
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/array-to-bst4443
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Array to BST](https://www.geeksforgeeks.org/problems/array-to-bst4443)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

@@ -1,10 +1,6 @@
 # Maximum Product Subarray
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/maximum-product-subarray3604
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Maximum Product Subarray](https://www.geeksforgeeks.org/problems/maximum-product-subarray3604)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

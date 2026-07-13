@@ -1,10 +1,6 @@
 # Level order traversal
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/level-order-traversal
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Level order traversal](https://www.geeksforgeeks.org/problems/level-order-traversal)
+- **Date Solved**: 2025-12-17
+- **Language**: cpp

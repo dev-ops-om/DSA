@@ -1,10 +1,6 @@
 # Gas Station
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/circular-tour-1587115620
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Gas Station](https://www.geeksforgeeks.org/problems/circular-tour-1587115620)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

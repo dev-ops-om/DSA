@@ -1,10 +1,6 @@
 # Construct BST from Postorder
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/construct-bst-from-post-order
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Construct BST from Postorder](https://www.geeksforgeeks.org/problems/construct-bst-from-post-order)
+- **Date Solved**: 2025-12-24
+- **Language**: cpp

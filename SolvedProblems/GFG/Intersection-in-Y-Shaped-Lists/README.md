@@ -1,10 +1,6 @@
 # Intersection in Y Shaped Lists
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Intersection in Y Shaped Lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

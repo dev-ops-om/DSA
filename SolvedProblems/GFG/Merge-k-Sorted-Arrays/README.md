@@ -1,10 +1,6 @@
 # Merge k Sorted Arrays
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Merge k Sorted Arrays](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

@@ -1,10 +1,6 @@
 # Max of min for every window size
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Max of min for every window size](https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

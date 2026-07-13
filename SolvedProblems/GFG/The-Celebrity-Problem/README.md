@@ -1,10 +1,6 @@
 # The Celebrity Problem
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/the-celebrity-problem
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem)
+- **Date Solved**: 2025-11-17
+- **Language**: cpp

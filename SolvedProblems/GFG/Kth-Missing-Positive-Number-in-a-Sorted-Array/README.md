@@ -1,10 +1,6 @@
 # Kth Missing Positive Number in a Sorted Array
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/kth-missing-positive-number-in-a-sorted-array
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Kth Missing Positive Number in a Sorted Array](https://www.geeksforgeeks.org/problems/kth-missing-positive-number-in-a-sorted-array)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

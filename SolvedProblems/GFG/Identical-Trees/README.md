@@ -1,10 +1,6 @@
 # Identical Trees
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Identical Trees](https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical)
+- **Date Solved**: 2025-12-17
+- **Language**: cpp

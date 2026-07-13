@@ -1,10 +1,6 @@
 # Find length of Loop
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/find-length-of-loop
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Find length of Loop](https://www.geeksforgeeks.org/problems/find-length-of-loop)
+- **Date Solved**: 2025-11-12
+- **Language**: cpp

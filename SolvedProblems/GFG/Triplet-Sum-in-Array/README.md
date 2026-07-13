@@ -1,10 +1,6 @@
 # Triplet Sum in Array
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Triplet Sum in Array](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

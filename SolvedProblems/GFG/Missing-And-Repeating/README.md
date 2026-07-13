@@ -1,10 +1,6 @@
 # Missing And Repeating
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512)
+- **Date Solved**: 2026-06-03
+- **Language**: cpp

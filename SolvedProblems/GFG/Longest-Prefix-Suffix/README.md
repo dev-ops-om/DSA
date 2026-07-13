@@ -1,10 +1,6 @@
 # Longest Prefix Suffix
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Longest Prefix Suffix](https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

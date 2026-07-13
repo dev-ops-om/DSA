@@ -1,4 +1,26 @@
-// Source code not available without GFG session cookie.
-// Problem: Rotate a Matrix by 180 Counterclockwise
-// Link: https://www.geeksforgeeks.org/problems/c-matrix-rotation-by-180-degree0745
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+  public:
+    void rotateMatrix(vector<vector<int>>& mat) {
+     //step1
+     int n=mat.size();
+     for(int j=0;j<n;j++){
+         int start=0;
+         int end=n-1;
+         while(start<end){
+         swap(mat[start][j],mat[end][j]);
+         start++;
+         end--;
+         }
+     }
+     //step2;
+     for(int i=0;i<n;i++){
+        int start=0;
+        int end=n-1;
+         while(start<end){
+             swap(mat[i][start],mat[i][end]);
+             start++;
+             end--;
+         }
+     }
+    }
+};

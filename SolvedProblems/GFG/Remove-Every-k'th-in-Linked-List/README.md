@@ -1,10 +1,6 @@
 # Remove Every k'th in Linked List
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/remove-every-kth-node
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Remove Every k'th in Linked List](https://www.geeksforgeeks.org/problems/remove-every-kth-node)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

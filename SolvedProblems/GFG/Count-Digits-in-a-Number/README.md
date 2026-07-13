@@ -1,10 +1,6 @@
 # Count Digits in a Number
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/count-digits-1606889545
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Count Digits in a Number](https://www.geeksforgeeks.org/problems/count-digits-1606889545)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

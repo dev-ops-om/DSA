@@ -1,10 +1,6 @@
 # Articulation Point - I
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/articulation-point-1
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Articulation Point - I](https://www.geeksforgeeks.org/problems/articulation-point-1)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

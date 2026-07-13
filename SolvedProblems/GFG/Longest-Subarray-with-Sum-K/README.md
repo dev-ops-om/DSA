@@ -1,10 +1,6 @@
 # Longest Subarray with Sum K
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

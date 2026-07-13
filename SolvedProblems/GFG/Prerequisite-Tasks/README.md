@@ -1,10 +1,6 @@
 # Prerequisite Tasks
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/prerequisite-tasks
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Prerequisite Tasks](https://www.geeksforgeeks.org/problems/prerequisite-tasks)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

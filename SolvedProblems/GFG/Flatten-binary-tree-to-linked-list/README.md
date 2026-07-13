@@ -1,10 +1,6 @@
 # Flatten binary tree to linked list
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Flatten binary tree to linked list](https://www.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list)
+- **Date Solved**: 2025-12-20
+- **Language**: cpp

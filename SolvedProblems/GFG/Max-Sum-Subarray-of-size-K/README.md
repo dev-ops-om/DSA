@@ -1,10 +1,6 @@
 # Max Sum Subarray of size K
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Max Sum Subarray of size K](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313)
+- **Date Solved**: 2026-01-05
+- **Language**: cpp

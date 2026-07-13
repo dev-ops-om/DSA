@@ -1,10 +1,6 @@
 # Four Elements
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/four-elements2452
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Four Elements](https://www.geeksforgeeks.org/problems/four-elements2452)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

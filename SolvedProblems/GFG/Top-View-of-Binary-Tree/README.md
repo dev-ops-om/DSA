@@ -1,10 +1,6 @@
 # Top View of Binary Tree
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/top-view-of-binary-tree
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

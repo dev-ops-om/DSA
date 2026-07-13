@@ -1,10 +1,6 @@
 # Common Nodes in Two BSTs
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Common Nodes in Two BSTs](https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst)
+- **Date Solved**: 2025-12-24
+- **Language**: cpp

@@ -1,10 +1,6 @@
 # Segregate 0s and 1s
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Segregate 0s and 1s](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106)
+- **Date Solved**: 2026-03-09
+- **Language**: cpp

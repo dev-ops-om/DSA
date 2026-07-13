@@ -1,10 +1,6 @@
 # Two Sum - Pair with Given Sum
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/key-pair5616
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Two Sum - Pair with Given Sum](https://www.geeksforgeeks.org/problems/key-pair5616)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

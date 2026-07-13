@@ -1,4 +1,12 @@
-// Source code not available without GFG session cookie.
-// Problem: Number of occurrence
-// Link: https://www.geeksforgeeks.org/problems/number-of-occurrence2259
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+  public:
+    int countFreq(vector<int>& arr, int target) {
+     int count=0;
+     for(int i=0;i<arr.size();i++){
+         if(arr[i]==target){
+             count++;
+         }
+     }
+     return count;
+    }
+};

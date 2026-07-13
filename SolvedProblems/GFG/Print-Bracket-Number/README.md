@@ -1,10 +1,6 @@
 # Print Bracket Number
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/print-bracket-number4058
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Print Bracket Number](https://www.geeksforgeeks.org/problems/print-bracket-number4058)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

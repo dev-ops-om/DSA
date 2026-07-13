@@ -1,10 +1,6 @@
 # Move All Zeroes to End
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Move All Zeroes to End](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

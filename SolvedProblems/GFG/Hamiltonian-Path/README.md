@@ -1,10 +1,6 @@
 # Hamiltonian Path
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/hamiltonian-path2522
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Hamiltonian Path](https://www.geeksforgeeks.org/problems/hamiltonian-path2522)
+- **Date Solved**: 2026-01-17
+- **Language**: cpp

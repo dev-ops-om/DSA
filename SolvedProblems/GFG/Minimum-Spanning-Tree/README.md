@@ -1,10 +1,6 @@
 # Minimum Spanning Tree
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/minimum-spanning-tree
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

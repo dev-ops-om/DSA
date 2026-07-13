@@ -1,10 +1,6 @@
 # Longest substring with distinct characters
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Longest substring with distinct characters](https://www.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

@@ -1,4 +1,18 @@
-// Source code not available without GFG session cookie.
-// Problem: Remove Two Consecutive Same
-// Link: https://www.geeksforgeeks.org/problems/string-manipulation3706
-// Add GFG_SESSION to .env and re-run to fetch full source.
+// User function Template for C++
+class Solution {
+  public:
+    int removeConsecutiveSame(vector<string>& arr) {
+      stack<string>s;
+      for(int i=0;i<arr.size();i++){
+          if(s.empty())
+              s.push(arr[i]);
+          
+          else if(s.top()==arr[i])
+          s.pop();
+          
+          else
+          s.push(arr[i]);
+      }
+      return s.size();
+    }
+};

@@ -1,10 +1,6 @@
 # Undirected Graph Cycle
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Undirected Graph Cycle](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

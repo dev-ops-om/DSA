@@ -1,10 +1,6 @@
 # Next Greater Element
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/next-larger-element-1587115620
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Next Greater Element](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

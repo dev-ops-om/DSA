@@ -1,10 +1,6 @@
 # Flattening a Linked List
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/flattening-a-linked-list
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Flattening a Linked List](https://www.geeksforgeeks.org/problems/flattening-a-linked-list)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

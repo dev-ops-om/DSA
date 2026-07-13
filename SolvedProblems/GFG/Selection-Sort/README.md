@@ -1,10 +1,6 @@
 # Selection Sort
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/selection-sort
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

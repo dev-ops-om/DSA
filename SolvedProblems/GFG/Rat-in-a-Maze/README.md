@@ -1,10 +1,6 @@
 # Rat in a Maze
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Rat in a Maze](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

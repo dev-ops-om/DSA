@@ -1,10 +1,6 @@
 # Check if two Nodes are Cousins
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/check-if-two-nodes-are-cousins
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Check if two Nodes are Cousins](https://www.geeksforgeeks.org/problems/check-if-two-nodes-are-cousins)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

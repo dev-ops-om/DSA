@@ -1,4 +1,18 @@
-// Source code not available without GFG session cookie.
-// Problem: Second Largest
-// Link: https://www.geeksforgeeks.org/problems/second-largest3735
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+  public:
+    int getSecondLargest(vector<int> &arr) {
+int first=INT_MIN;
+int second=INT_MIN;
+        for(int i=0;i<arr.size();i++){
+            if(arr[i]>first){
+                second=first;
+                first=arr[i];
+             
+            }
+            else if(arr[i]>second &&arr[i]<first){
+                second=arr[i];
+            }
+        }
+        return (second==INT_MIN)?-1:second;
+    }
+};

@@ -1,10 +1,6 @@
 # Max Circular Subarray Sum
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Max Circular Subarray Sum](https://www.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

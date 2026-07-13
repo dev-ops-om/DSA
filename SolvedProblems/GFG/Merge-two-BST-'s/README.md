@@ -1,10 +1,6 @@
 # Merge two BST 's
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/merge-two-bst-s
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Merge two BST 's](https://www.geeksforgeeks.org/problems/merge-two-bst-s)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

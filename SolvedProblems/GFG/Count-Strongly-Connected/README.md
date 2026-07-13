@@ -1,10 +1,6 @@
 # Count Strongly Connected
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Count Strongly Connected](https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

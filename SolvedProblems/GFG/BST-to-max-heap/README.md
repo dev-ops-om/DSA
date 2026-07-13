@@ -1,10 +1,6 @@
 # BST to max heap
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/bst-to-max-heap
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [BST to max heap](https://www.geeksforgeeks.org/problems/bst-to-max-heap)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

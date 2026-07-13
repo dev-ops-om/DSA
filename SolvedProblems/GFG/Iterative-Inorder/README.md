@@ -1,10 +1,6 @@
 # Iterative Inorder
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/inorder-traversal-iterative
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Iterative Inorder](https://www.geeksforgeeks.org/problems/inorder-traversal-iterative)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

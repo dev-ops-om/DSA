@@ -1,10 +1,6 @@
 # Make the array beautiful
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/make-the-array-beautiful--170647
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Make the array beautiful](https://www.geeksforgeeks.org/problems/make-the-array-beautiful--170647)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

@@ -1,10 +1,6 @@
 # Bubble Sort
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/bubble-sort
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

@@ -1,4 +1,40 @@
-// Source code not available without GFG session cookie.
-// Problem: Find length of Loop
-// Link: https://www.geeksforgeeks.org/problems/find-length-of-loop
-// Add GFG_SESSION to .env and re-run to fetch full source.
+/*
+class Node {
+ public:
+    int data;
+    Node *next;
+
+    Node(int x) {
+        data = x;
+        next = NULL;
+    }
+};
+*/
+
+class Solution {
+  public:
+    int lengthOfLoop(Node *head) {
+       Node *slow=head;
+      Node *fast=head;
+      while(fast!=NULL && fast->next!=NULL){
+          slow=slow->next;
+          fast=fast->next->next;
+          
+          if(slow==fast){
+             break;
+          }
+      }
+     if(fast==NULL || fast->next==NULL){
+         return 0;
+     }
+     int count=1;
+     slow=fast->next;
+     while(slow!=fast){
+         count++;
+         slow=slow->next;
+         
+     }
+     return count;
+        
+    }
+};

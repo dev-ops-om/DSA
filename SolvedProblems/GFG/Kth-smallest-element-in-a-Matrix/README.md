@@ -1,10 +1,6 @@
 # Kth smallest element in a Matrix
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/kth-element-in-matrix
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Kth smallest element in a Matrix](https://www.geeksforgeeks.org/problems/kth-element-in-matrix)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

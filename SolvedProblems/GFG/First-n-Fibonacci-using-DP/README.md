@@ -1,10 +1,6 @@
 # First n Fibonacci using DP
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/fibonacci-series-up-to-nth-term
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [First n Fibonacci using DP](https://www.geeksforgeeks.org/problems/fibonacci-series-up-to-nth-term)
+- **Date Solved**: 2025-09-23
+- **Language**: cpp

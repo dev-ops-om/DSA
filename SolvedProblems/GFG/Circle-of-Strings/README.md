@@ -1,10 +1,6 @@
 # Circle of Strings
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/circle-of-strings4530
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Circle of Strings](https://www.geeksforgeeks.org/problems/circle-of-strings4530)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

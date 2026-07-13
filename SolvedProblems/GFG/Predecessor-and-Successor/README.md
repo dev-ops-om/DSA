@@ -1,10 +1,6 @@
 # Predecessor and Successor
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/predecessor-and-successor
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Predecessor and Successor](https://www.geeksforgeeks.org/problems/predecessor-and-successor)
+- **Date Solved**: 2026-03-20
+- **Language**: cpp

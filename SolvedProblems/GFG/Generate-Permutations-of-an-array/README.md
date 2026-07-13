@@ -1,10 +1,6 @@
 # Generate Permutations of an array
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/generate-permutations-of-an-array
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Generate Permutations of an array](https://www.geeksforgeeks.org/problems/generate-permutations-of-an-array)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

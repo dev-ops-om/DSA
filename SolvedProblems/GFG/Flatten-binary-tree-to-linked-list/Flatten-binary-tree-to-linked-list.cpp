@@ -1,4 +1,23 @@
-// Source code not available without GFG session cookie.
-// Problem: Flatten binary tree to linked list
-// Link: https://www.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list
-// Add GFG_SESSION to .env and re-run to fetch full source.
+// User function Template for C++
+
+class Solution {
+  public:
+    void flatten(Node *root) {
+  
+  while(root){
+      if(!root->left){
+       root=root->right;   
+      }
+      else{
+          Node *curr=root->left;
+          while(curr->right)
+          curr=curr->right;
+          curr->right=root->right;
+          root->right=root->left;
+          root->left=NULL;
+          root=root->right;
+      }
+  }
+        
+    }
+};

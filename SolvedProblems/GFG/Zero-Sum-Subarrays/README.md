@@ -1,10 +1,6 @@
 # Zero Sum Subarrays
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/zero-sum-subarrays1825
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Zero Sum Subarrays](https://www.geeksforgeeks.org/problems/zero-sum-subarrays1825)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

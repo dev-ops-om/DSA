@@ -1,10 +1,6 @@
 # Sum of Binary Tree
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/sum-of-binary-tree
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Sum of Binary Tree](https://www.geeksforgeeks.org/problems/sum-of-binary-tree)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

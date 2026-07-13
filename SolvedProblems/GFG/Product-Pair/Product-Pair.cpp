@@ -1,4 +1,28 @@
-// Source code not available without GFG session cookie.
-// Problem: Product Pair
-// Link: https://www.geeksforgeeks.org/problems/equal-to-product3836
-// Add GFG_SESSION to .env and re-run to fetch full source.
+// User function template for C++
+
+class Solution {
+  public:
+    bool isProduct(vector<int> arr, long long x) {
+        unordered_set<int>st;
+        for(int i=0;i<arr.size();i++){
+            if(arr[i]==0){
+                if(x==0 && st.count(0)){
+                    return true;
+                }
+                st.insert(0);
+            }
+            else{
+                if(x%arr[i]==0){
+                    int need=x/arr[i];
+                    if(st.count(need)){
+                        return true;
+                    }
+                
+                }
+                    st.insert(arr[i]);
+            }
+          
+        }
+        return false;
+    }
+};

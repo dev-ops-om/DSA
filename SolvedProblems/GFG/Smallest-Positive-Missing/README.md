@@ -1,10 +1,6 @@
 # Smallest Positive Missing
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Smallest Positive Missing](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

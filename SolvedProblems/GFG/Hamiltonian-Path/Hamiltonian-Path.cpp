@@ -1,4 +1,36 @@
-// Source code not available without GFG session cookie.
-// Problem: Hamiltonian Path
-// Link: https://www.geeksforgeeks.org/problems/hamiltonian-path2522
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+    
+    bool DFS(int node,vector<vector<int>>&adj,vector<bool>&visited,int &count,int n){
+        visited[node]=1;
+        
+        count++;
+        if(count==n)
+        return 1;
+        
+        for(int j=0;j<adj[node].size();j++){
+            if((!visited[adj[node][j]]) &&  DFS(adj[node][j],adj,visited,count,n))
+            return 1;
+           
+        }
+        visited[node]=0;
+        count--;
+        return 0;
+        
+    }
+  public:
+    bool check(int n, int m, vector<vector<int>> edges) {
+        
+        vector<vector<int>>adj(n);
+  for(int i=0;i<m;i++){
+      adj[edges[i][0]-1].push_back(edges[i][1]-1);
+      adj[edges[i][1]-1].push_back(edges[i][0]-1);
+  }
+  vector<bool>visited(n,0);
+  int count=0;
+  for(int i=0;i<n;i++){
+ if( DFS(i,adj,visited,count,n))
+ return 1;
+  }
+  return 0;
+    }
+};

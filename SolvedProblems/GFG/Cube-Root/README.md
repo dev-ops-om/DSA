@@ -1,10 +1,6 @@
 # Cube Root
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/cube-root-of-a-number0915
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Cube Root](https://www.geeksforgeeks.org/problems/cube-root-of-a-number0915)
+- **Date Solved**: 2026-04-16
+- **Language**: cpp

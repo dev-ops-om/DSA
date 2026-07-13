@@ -1,10 +1,6 @@
 # Dijkstra Algorithm
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix
-- **Date Solved:** Unknown
-- **Language:** cpp
+- **Platform**: GFG
+- **Link**: [Dijkstra Algorithm](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix)
 
-## Notes
-
-Auto-synced from GFG.
+> **Note**: Source code was not available via API. Add your solution manually.

@@ -1,10 +1,6 @@
 # Size of Binary Tree
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/size-of-binary-tree
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Size of Binary Tree](https://www.geeksforgeeks.org/problems/size-of-binary-tree)
+- **Date Solved**: 2025-12-17
+- **Language**: cpp

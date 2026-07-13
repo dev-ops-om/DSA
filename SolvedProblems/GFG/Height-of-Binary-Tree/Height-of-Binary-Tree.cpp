@@ -1,4 +1,24 @@
-// Source code not available without GFG session cookie.
-// Problem: Height of Binary Tree
-// Link: https://www.geeksforgeeks.org/problems/height-of-binary-tree
-// Add GFG_SESSION to .env and re-run to fetch full source.
+/*
+class Node {
+public:
+    int data;
+    Node* left;
+    Node* right;
+
+    Node(int val) {
+        data = val;
+        left = right = NULL;
+    }
+};
+*/
+
+class Solution {
+  public:
+    int height(Node* root) {
+        if(root==NULL)
+        return -1;
+        int sum=(1+max(height(root->left),height(root->right)));
+        
+        return sum;
+    }
+};

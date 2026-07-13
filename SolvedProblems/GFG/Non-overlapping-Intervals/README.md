@@ -1,10 +1,6 @@
 # Non-overlapping Intervals
 
-- **Platform:** GFG
-- **Problem Link:** https://www.geeksforgeeks.org/problems/non-overlapping-intervals
-- **Date Solved:** Unknown
-- **Language:** cpp
-
-## Notes
-
-Auto-synced from GFG.
+- **Platform**: GFG
+- **Link**: [Non-overlapping Intervals](https://www.geeksforgeeks.org/problems/non-overlapping-intervals)
+- **Date Solved**: 2026-03-13
+- **Language**: cpp
