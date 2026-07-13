@@ -6,8 +6,8 @@ Collection of solved problems from various competitive programming platforms.
 
 | Platform | Problems | With Code |
 |----------|----------|-----------|
-| Leetcode | 151 | 151 |
-| **Total** | **151** | **151** |
+| GFG | 3 | 3 |
+| **Total** | **3** | **3** |
 
 ## 📁 Structure
 
