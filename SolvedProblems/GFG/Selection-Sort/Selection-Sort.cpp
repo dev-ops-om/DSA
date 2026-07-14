@@ -1,4 +1,19 @@
-// Source code not available without GFG session cookie.
-// Problem: Selection Sort
-// Link: https://www.geeksforgeeks.org/problems/selection-sort
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+  public:
+    // Function to perform selection sort on the given array.
+    void selectionSort(vector<int> &arr) {
+     int n=arr.size();
+     for(int i=0;i<n;i++){
+         int index=i;
+         for(int j=i+1;j<n;j++){
+             if(arr[j]<arr[index]){
+                 index=j;
+                 
+             }
+            
+         }
+          swap(arr[i],arr[index]);
+     }
+   
+    }
+};

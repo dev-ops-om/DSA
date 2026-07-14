@@ -1,4 +1,17 @@
-// Source code not available without GFG session cookie.
-// Problem: Queue Reversal
-// Link: https://www.geeksforgeeks.org/problems/queue-reversal
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+  public:
+    void reverseQueue(queue<int> &q) {
+      
+       stack<int>st;
+  while(!q.empty()){
+      st.push(q.front());
+      q.pop();
+      
+  }
+  while(!st.empty()){
+      q.push(st.top());
+      st.pop();
+      
+  }
+  }
+};

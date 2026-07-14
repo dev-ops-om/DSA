@@ -1,4 +1,13 @@
-// Source code not available without GFG session cookie.
-// Problem: Rotate Array by One
-// Link: https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614
-// Add GFG_SESSION to .env and re-run to fetch full source.
+// User function Template for C++
+
+class Solution {
+  public:
+    void rotate(vector<int> &arr) {
+        int n=arr.size();
+vector<int>temp(n);
+for(int i=0;i<n;i++){
+    temp[i] = arr[(i+(n-1))%n];
+}
+arr=temp;
+    }
+};

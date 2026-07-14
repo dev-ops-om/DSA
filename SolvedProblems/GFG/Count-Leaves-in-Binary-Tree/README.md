@@ -2,5 +2,5 @@
 
 - **Platform**: GFG
 - **Link**: [Count Leaves in Binary Tree](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree)
-
-> **Note**: Source code was not available via API. Add your solution manually.
+- **Date Solved**: 2025-12-17
+- **Language**: cpp

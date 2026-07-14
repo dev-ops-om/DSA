@@ -1,4 +1,10 @@
-// Source code not available without GFG session cookie.
-// Problem: Rotate Array
-// Link: https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+  public:
+    void rotateArr(vector<int>& arr, int d) {
+     int n=arr.size();
+     d=d%n;
+    reverse(arr.begin(),arr.end());
+    reverse(arr.begin(),arr.begin()+n-d);
+    reverse(arr.begin()+n-d,arr.end());
+    }
+};

@@ -1,4 +1,13 @@
-// Source code not available without GFG session cookie.
-// Problem: Kadane's Algorithm
-// Link: https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+  public:
+    int maxSubarraySum(vector<int> &arr) {
+      int currSum=0;
+      int maxSum=INT_MIN;
+      for(int i=0;i<arr.size();i++){
+          currSum=max(arr[i],currSum+arr[i]);
+          maxSum=max(maxSum,currSum);
+          
+      }
+      return maxSum;
+    }
+};

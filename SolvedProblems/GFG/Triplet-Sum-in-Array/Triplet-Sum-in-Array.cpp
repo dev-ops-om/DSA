@@ -1,4 +1,27 @@
-// Source code not available without GFG session cookie.
-// Problem: Triplet Sum in Array
-// Link: https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+  public:
+    bool hasTripletSum(vector<int> &arr, int target) {
+       int sum=0;
+       int n=arr.size();
+       sort(arr.begin(),arr.end());
+       for(int i=0;i<n;i++){
+           int left=i+1;
+           int right=n-1;
+           
+           while(left<right){
+               sum=arr[i]+arr[left]+arr[right];
+               
+               if(sum==target){
+                   return true;
+               }
+               else if(sum<target){
+                   left++;
+               }
+               else{
+                   right--;
+               }
+           }
+       }
+        return false;
+    }
+};

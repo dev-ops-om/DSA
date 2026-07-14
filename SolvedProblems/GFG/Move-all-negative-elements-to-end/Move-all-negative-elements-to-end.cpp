@@ -1,4 +1,23 @@
-// Source code not available without GFG session cookie.
-// Problem: Move all negative elements to end
-// Link: https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+public:
+    void segregateElements(vector<int>& arr) {
+        vector<int> temp;
+        
+        // store positive elements
+        for (int x : arr) {
+            if (x >= 0)
+                temp.push_back(x);
+        }
+        
+        // store negative elements
+        for (int x : arr) {
+            if (x < 0)
+                temp.push_back(x);
+        }
+        
+        // copy back to original array
+        for (int i = 0; i < arr.size(); i++) {
+            arr[i] = temp[i];
+        }
+    }
+};

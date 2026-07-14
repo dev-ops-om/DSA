@@ -1,4 +1,35 @@
-// Source code not available without GFG session cookie.
-// Problem: BST to max heap
-// Link: https://www.geeksforgeeks.org/problems/bst-to-max-heap
-// Add GFG_SESSION to .env and re-run to fetch full source.
+// User function Template for C++
+
+/*struct Node {
+    int data;
+    Node *left, *right;
+};*/
+
+void inorder(Node *root,vector<int>&ans){
+    if(!root)
+    return;
+    
+    inorder(root->left,ans);
+    ans.push_back(root->data);
+    inorder(root->right,ans);
+}
+
+void postorder(Node *root,vector<int>&ans,int &index){
+    
+    if(!root)
+    return;
+    
+    postorder(root->left,ans,index);
+    postorder(root->right,ans,index);
+    root->data=ans[index];
+    index++;
+}
+class Solution {
+  public:
+    void convertToMaxHeapUtil(Node* root) {
+vector<int>ans;
+inorder(root,ans);
+int index=0;
+postorder(root,ans,index);
+    }
+};

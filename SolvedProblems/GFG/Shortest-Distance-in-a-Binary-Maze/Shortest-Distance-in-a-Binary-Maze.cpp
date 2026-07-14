@@ -1,4 +1,55 @@
-// Source code not available without GFG session cookie.
-// Problem: Shortest Distance in a Binary Maze
-// Link: https://www.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161
-// Add GFG_SESSION to .env and re-run to fetch full source.
+// User function Template for C++
+int row[4]={1,-1,0,0};
+  int col[4]={0,0,1,-1};
+class Solution {
+  public:
+  
+  
+  bool valid (int i,int j,int n,int m){
+      return i>=0 &&j>=0 &&i<n&&j<m;
+  }
+    int shortestDistance(int N, int M, vector<vector<int>> A, int X, int Y) {
+        
+        if(!A[0][0])
+        return -1;
+        
+        
+        if(X==0 && Y==0)
+        return 0;
+        
+        queue<pair<int,int>>q;
+        q.push({0,0});
+     // queue<pair<int,pair<int,int>>>q;
+    //  q.push({0,{0,0}});
+    //  vector<vector<bool>>visited(N,vector<bool>(M,0));
+      A[0][0]=0;
+      int step=0;
+      
+      while(!q.empty()){
+          int count=q.size();
+          while(count--){
+              
+          
+          int i=q.front().first;
+          int j=q.front().second;
+       //   int step=q.front().second.second;
+          q.pop();
+          for(int k=0;k<4;k++){
+              int new_i=i+row[k];
+              int new_j=j+col[k];
+              
+             if(valid(new_i,new_j,N,M) && A[new_i][new_j]==1) {
+    if(new_i==X && new_j==Y)
+        return step+1;
+    A[new_i][new_j] = 0;
+    q.push({new_i,new_j});
+}
+              
+          }
+          }
+          step++;
+      }
+      return -1;
+      
+    }
+};

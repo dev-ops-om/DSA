@@ -2,5 +2,4 @@
 
 - **Platform**: GFG
 - **Link**: [Check for Path in a 2D Grid with Obstacles](https://www.geeksforgeeks.org/problems/find-whether-path-exist5238)
-- **Date Solved**: 2026-01-13
 - **Language**: cpp

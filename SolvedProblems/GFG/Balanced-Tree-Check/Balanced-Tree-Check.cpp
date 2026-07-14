@@ -1,4 +1,34 @@
-// Source code not available without GFG session cookie.
-// Problem: Balanced Tree Check
-// Link: https://www.geeksforgeeks.org/problems/check-for-balanced-tree
-// Add GFG_SESSION to .env and re-run to fetch full source.
+/*
+class Node {
+  public:
+    int data;
+    Node* left;
+    Node* right;
+
+    // Constructor to initialize a new node
+    Node(int val) {
+        data = val;
+        left = NULL;
+        right = NULL;
+    }
+};
+*/
+int height(Node*root,bool &valid){
+    if(root==NULL)
+    return 0;
+    int L=height(root->left,valid);
+    int R=height(root->right,valid);
+    if(abs(L-R)>1)
+    valid=0;
+    
+    return 1+max(L,R);
+}
+
+class Solution {
+  public:
+    bool isBalanced(Node* root) {
+       bool valid=1;
+       height(root,valid);
+       return valid;
+    }
+};
