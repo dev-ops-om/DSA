@@ -2,5 +2,5 @@
 
 - **Platform**: GFG
 - **Link**: [Shortest path in Directed Acyclic Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-directed-acyclic-graph)
-
-> **Note**: Source code was not available via API. Add your solution manually.
+- **Date Solved**: 2026-01-11
+- **Language**: cpp

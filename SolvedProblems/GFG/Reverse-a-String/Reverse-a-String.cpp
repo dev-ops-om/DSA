@@ -1,4 +1,16 @@
-// Source code not available without GFG session cookie.
-// Problem: Reverse a String
-// Link: https://www.geeksforgeeks.org/problems/reverse-a-string
-// Add GFG_SESSION to .env and re-run to fetch full source.
+// User function Template for C++
+class Solution {
+  public:
+  void reverse(string &s,int start,int end){
+      if(start>=end)
+      return;
+      
+      swap(s[start],s[end]);
+      
+     reverse(s,start+1,end-1);
+  }
+    string revStr(string s) {
+      reverse(s,0,s.length()-1);
+        return s;
+    }
+};

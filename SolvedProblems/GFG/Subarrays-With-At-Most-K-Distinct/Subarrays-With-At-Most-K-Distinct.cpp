@@ -1,4 +1,32 @@
-// Source code not available without GFG session cookie.
-// Problem: Subarrays With At Most K Distinct
-// Link: https://www.geeksforgeeks.org/problems/subarrays-with-at-most-k-distinct-integers
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+  public:
+    int countAtMostK(vector<int> &nums, int k) {
+        
+          int left=0;
+        int n=nums.size();
+        int ans=0;
+        int count=0;
+    unordered_map<int,int>freq;
+     
+        for(int right=0;right<n;right++){
+freq[nums[right]]++;
+
+     if(freq[nums[right]]==1){
+    count++;
+          } 
+
+        while(count>k){
+            freq[nums[left]]--;
+            if (freq[nums[left]] == 0) {
+       count--;
+    }
+              left++;
+        }
+      
+        ans+=right-left+1;
+        }
+        return ans;
+    }
+        
+    
+};

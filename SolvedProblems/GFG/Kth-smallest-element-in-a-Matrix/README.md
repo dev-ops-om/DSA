@@ -2,5 +2,5 @@
 
 - **Platform**: GFG
 - **Link**: [Kth smallest element in a Matrix](https://www.geeksforgeeks.org/problems/kth-element-in-matrix)
-
-> **Note**: Source code was not available via API. Add your solution manually.
+- **Date Solved**: 2025-12-30
+- **Language**: cpp

@@ -2,5 +2,5 @@
 
 - **Platform**: GFG
 - **Link**: [Preorder traversal (Iterative)](https://www.geeksforgeeks.org/problems/preorder-traversal-iterative)
-
-> **Note**: Source code was not available via API. Add your solution manually.
+- **Date Solved**: 2025-12-20
+- **Language**: cpp

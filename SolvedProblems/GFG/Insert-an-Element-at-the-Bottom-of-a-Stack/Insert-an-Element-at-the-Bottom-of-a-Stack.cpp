@@ -1,4 +1,18 @@
-// Source code not available without GFG session cookie.
-// Problem: Insert an Element at the Bottom of a Stack
-// Link: https://www.geeksforgeeks.org/problems/insert-an-element-at-the-bottom-of-a-stack
-// Add GFG_SESSION to .env and re-run to fetch full source.
+// User function Template for C++
+
+class Solution {
+  public:
+    stack<int> insertAtBottom(stack<int> st, int x) {
+        stack<int>temp;
+        while(!st.empty()){
+            temp.push(st.top());
+            st.pop();
+        }
+        st.push(x);
+        while(!temp.empty()){
+            st.push(temp.top());
+            temp.pop();
+        }
+        return st;
+    }
+};

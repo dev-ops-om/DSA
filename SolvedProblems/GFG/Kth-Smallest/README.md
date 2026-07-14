@@ -2,5 +2,5 @@
 
 - **Platform**: GFG
 - **Link**: [Kth Smallest](https://www.geeksforgeeks.org/problems/kth-smallest-element5635)
-
-> **Note**: Source code was not available via API. Add your solution manually.
+- **Date Solved**: 2025-12-29
+- **Language**: cpp

@@ -2,5 +2,5 @@
 
 - **Platform**: GFG
 - **Link**: [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree)
-
-> **Note**: Source code was not available via API. Add your solution manually.
+- **Date Solved**: 2025-12-18
+- **Language**: cpp

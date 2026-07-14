@@ -2,5 +2,5 @@
 
 - **Platform**: GFG
 - **Link**: [Circle of Strings](https://www.geeksforgeeks.org/problems/circle-of-strings4530)
-
-> **Note**: Source code was not available via API. Add your solution manually.
+- **Date Solved**: 2026-01-15
+- **Language**: cpp

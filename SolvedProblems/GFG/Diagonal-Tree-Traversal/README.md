@@ -2,5 +2,5 @@
 
 - **Platform**: GFG
 - **Link**: [Diagonal Tree Traversal](https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree)
-
-> **Note**: Source code was not available via API. Add your solution manually.
+- **Date Solved**: 2025-12-20
+- **Language**: cpp

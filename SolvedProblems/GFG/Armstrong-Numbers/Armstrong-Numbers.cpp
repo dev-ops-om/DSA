@@ -1,4 +1,14 @@
-// Source code not available without GFG session cookie.
-// Problem: Armstrong Numbers
-// Link: https://www.geeksforgeeks.org/problems/armstrong-numbers2727
-// Add GFG_SESSION to .env and re-run to fetch full source.
+// User function Template for C++
+class Solution {
+  public:
+    bool armstrongNumber(int n) {
+      int ans=0;
+    int temp=n;
+      while(n>0){
+          int rem=n%10;
+          n=n/10;
+          ans+=pow(rem,3);
+      }
+       return (temp==ans)?true:false; 
+    }
+};

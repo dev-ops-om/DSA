@@ -1,4 +1,18 @@
-// Source code not available without GFG session cookie.
-// Problem: GCD of two numbers
-// Link: https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+  public:
+    int gcd(int a, int b) {
+   while(b>0 &&a>0){
+       if(a>b){
+           a=a%b;
+       }
+       else{
+           b=b%a;
+       }
+       if(a==0){
+           return b;
+       }
+      
+   }
+    return a;
+   }
+};

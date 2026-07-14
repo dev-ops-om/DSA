@@ -1,4 +1,24 @@
-// Source code not available without GFG session cookie.
-// Problem: Maximize Number of 1's
-// Link: https://www.geeksforgeeks.org/problems/maximize-number-of-1s0905
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+  public:
+    int maxOnes(vector<int>& arr, int k) {
+       int left =0;
+       int ans=INT_MIN;
+       int count=0;
+       for(int right=0;right<arr.size();right++){
+           if(arr[right]==0)
+           count++;
+      
+           while(count>k){
+             
+               if(arr[left]==0)
+               count--;
+                 left++;
+          }
+        //   if(count<=k){
+              ans=max(ans,right-left+1);
+        //   }
+           
+       }
+        return ans;
+    }
+};

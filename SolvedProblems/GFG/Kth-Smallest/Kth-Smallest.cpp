@@ -1,4 +1,19 @@
-// Source code not available without GFG session cookie.
-// Problem: Kth Smallest
-// Link: https://www.geeksforgeeks.org/problems/kth-smallest-element5635
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+  public:
+    int kthSmallest(vector<int> &arr, int k) {
+     priority_queue<int>p;
+     
+     for(int i=0;i<k;i++){
+         p.push(arr[i]);
+         
+     }
+     for(int i=k;i<arr.size();i++){
+         if(arr[i]<p.top()){
+             p.pop();
+             p.push(arr[i]);
+         }
+     }
+     return p.top();
+        
+    }
+};

@@ -1,4 +1,30 @@
-// Source code not available without GFG session cookie.
-// Problem: Remove Duplicates from a Sorted Linked List
-// Link: https://www.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list
-// Add GFG_SESSION to .env and re-run to fetch full source.
+/*
+struct Node {
+  int data;
+  struct Node *next;
+  Node(int x) {
+    data = x;
+    next = NULL;
+  }
+};*/
+
+class Solution {
+  public:
+    // Function to remove duplicates from sorted linked list.
+    Node* removeDuplicates(Node* head) {
+      Node *curr=head->next;
+      Node *prev=head;
+      while(curr){
+          if(curr->data==prev->data){
+              prev->next=curr->next;
+              delete curr;
+              curr=prev->next;
+          }
+          else{
+              prev=prev->next;
+              curr=curr->next;
+          }
+      }
+      return head;
+    }
+};

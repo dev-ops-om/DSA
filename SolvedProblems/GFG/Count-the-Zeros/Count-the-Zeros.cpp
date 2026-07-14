@@ -1,4 +1,15 @@
-// Source code not available without GFG session cookie.
-// Problem: Count the Zeros
-// Link: https://www.geeksforgeeks.org/problems/count-the-zeros2550
-// Add GFG_SESSION to .env and re-run to fetch full source.
+// User function template for C++
+
+class Solution {
+  public:
+    int countZeroes(vector<int> &arr) {
+     int count=0;
+     for(int i=0;i<arr.size();i++){
+         if(arr[i]==0){
+             count++;
+             
+         }
+     }
+        return count;
+    }
+};

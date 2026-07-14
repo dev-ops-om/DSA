@@ -1,4 +1,24 @@
-// Source code not available without GFG session cookie.
-// Problem: Count Non-Leaf Nodes in Tree
-// Link: https://www.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree
-// Add GFG_SESSION to .env and re-run to fetch full source.
+/*Structure of the node of the tree is as
+struct Node
+{
+    int data;
+    struct Node* left;
+    struct Node* right;
+};
+*/
+// you are required to complete this function
+// the function should return the count of Non-Leaf Nodes
+class Solution {
+  public:
+    int countNonLeafNodes(Node* root) {
+     
+       if(root==NULL)
+        return 0;
+      if(!root->left&&!root->right)
+      return 0;
+      
+      return 1 + countNonLeafNodes(root->left) + countNonLeafNodes(root->right);
+
+
+    }
+};

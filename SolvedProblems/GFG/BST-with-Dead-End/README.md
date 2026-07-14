@@ -2,5 +2,4 @@
 
 - **Platform**: GFG
 - **Link**: [BST with Dead End](https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end)
-- **Date Solved**: 2025-12-24
 - **Language**: cpp

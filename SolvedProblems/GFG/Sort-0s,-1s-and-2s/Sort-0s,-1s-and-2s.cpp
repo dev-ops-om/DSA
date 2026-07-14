@@ -1,4 +1,25 @@
-// Source code not available without GFG session cookie.
-// Problem: Sort 0s, 1s and 2s
-// Link: https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231
-// Add GFG_SESSION to .env and re-run to fetch full source.
+class Solution {
+  public:
+    void sort012(vector<int>& arr) {
+       //Dutch National Flag Algorithm
+       int low=0;
+       int mid=0;
+       int high=arr.size()-1;
+       while(mid<=high){
+           if(arr[mid]==0){
+               swap(arr[mid],arr[low]);
+               low++;
+               mid++;
+               
+           }
+           else if(arr[mid]==1){
+               mid++;
+           }
+           else{
+               swap(arr[mid],arr[high]);
+               high--;
+           }
+       }
+        
+    }
+};

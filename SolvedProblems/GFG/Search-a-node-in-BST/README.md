@@ -2,5 +2,4 @@
 
 - **Platform**: GFG
 - **Link**: [Search a node in BST](https://www.geeksforgeeks.org/problems/search-a-node-in-bst)
-- **Date Solved**: 2025-12-22
 - **Language**: cpp
