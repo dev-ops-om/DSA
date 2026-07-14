@@ -1,13 +1,17 @@
 # 🚀 DSA - Solved Problems
 
-Collection of solved problems from various competitive programming platforms.
+A curated collection of my solved problems from various competitive programming and algorithmic platforms, automatically synced.
+
+> "First, solve the problem. Then, write the code." 
+> — *John Johnson*
 
 ## 📊 Statistics
 
-| Platform | Problems | With Code |
-|----------|----------|-----------|
-| GFG | 207 | 186 |
-| **Total** | **207** | **186** |
+| Platform | Solved Problems |
+| :--- | :---: |
+| LeetCode | 151 |
+| GFG | 208 |
+| **Total** | **359** |
 
 ## 📁 Structure
 
