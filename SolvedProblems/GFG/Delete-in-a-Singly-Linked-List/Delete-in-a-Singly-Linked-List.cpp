@@ -1,4 +1,40 @@
-// Source code not available without GFG session cookie.
-// Problem: Delete in a Singly Linked List
-// Link: https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list
-// Add GFG_SESSION to .env and re-run to fetch full source.
+/*
+class Node {
+public:
+    int data;
+    Node* next;
+
+    Node(int data) {
+        this->data = data;
+        this->next = nullptr;
+    }
+};
+*/
+class Solution {
+  public:
+    Node* deleteNode(Node* head, int x) {
+       if(head==NULL) {
+            return head;
+        }
+      if(x==1){
+           Node *temp=head;
+      head=head->next;
+      delete temp;
+      
+      return head;
+      }
+    Node*curr=head;
+    Node *prev=NULL;
+    x--;
+    while(x--){
+        prev=curr;
+        curr=curr->next;
+    }
+    prev->next=curr->next;
+    delete curr;
+    
+    return head;
+      
+      
+    }
+};

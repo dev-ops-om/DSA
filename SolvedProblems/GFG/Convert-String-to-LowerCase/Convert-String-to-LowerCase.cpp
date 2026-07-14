@@ -1,4 +1,17 @@
-// Source code not available without GFG session cookie.
-// Problem: Convert String to LowerCase
-// Link: https://www.geeksforgeeks.org/problems/convert-string-to-lowercase
-// Add GFG_SESSION to .env and re-run to fetch full source.
+// User function Template for C++
+
+class Solution {
+  public:
+    string toLower(string& s) {
+     int n=s.length();
+     for(int i=0;i<n;i++){
+         
+       if (s[i] >= 'A' && s[i] <= 'Z') {
+    s[i] = s[i] - 'A' + 'a';
+}
+
+         
+     }
+     return s;
+    }
+};

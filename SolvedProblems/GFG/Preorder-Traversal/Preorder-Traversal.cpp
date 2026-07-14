@@ -1,28 +1,19 @@
-/*
-class Node
-{
-    int data;
-    Node* left;
-    Node* right;
-
-    Node(int x){
-        data = x;
-        left = right = NULL;
-    }
-};
-*/
-void pre(Node*root,vector<int>&ans){
-    if(root==NULL)
+// User function Template for C++
+void BST(int arr[],int &index,int lower,int upper,int N){
+    
+    if(index==N || arr[index]<lower|| arr[index]>upper)
     return;
-    ans.push_back(root->data);
-    pre(root->left,ans);
-    pre(root->right,ans);
+    int value=arr[index++];
+    BST(arr,index,lower,value,N);
+    BST(arr,index,value,upper,N);
+    
 }
 class Solution {
   public:
-    vector<int> preOrder(Node* root) {
-       vector<int>ans;
-       pre(root,ans);
-       return ans;
+    int canRepresentBST(int arr[], int N) {
+     int index=0;
+     BST(arr,index,INT_MIN,INT_MAX,N);
+     return index==N;
+        
     }
 };

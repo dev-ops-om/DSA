@@ -2,5 +2,4 @@
 
 - **Platform**: GFG
 - **Link**: [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614)
-- **Date Solved**: 2026-06-14
 - **Language**: cpp
