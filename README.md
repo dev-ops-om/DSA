@@ -31,3 +31,15 @@ SolvedProblems/
 
 ---
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/dev-ops-om/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/dev-ops-om/DSA/tree/master/1021-remove-outermost-parentheses) |
+<!---LeetCode Topics End-->
