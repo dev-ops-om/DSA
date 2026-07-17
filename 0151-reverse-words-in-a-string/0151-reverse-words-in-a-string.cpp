@@ -22,7 +22,7 @@ public:
          
             i++;
         }
-        if (r > 0 && s[r - 1] == ' ') r--;
-        return s.substr(0,r);
+        // if (r > 0 && s[r - 1] == ' ') r--;
+        return s.substr(0,r-1);
     }
 };
