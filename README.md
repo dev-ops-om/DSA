@@ -37,6 +37,7 @@ SolvedProblems/
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dev-ops-om/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dev-ops-om/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/dev-ops-om/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -56,4 +57,12 @@ SolvedProblems/
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/dev-ops-om/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dev-ops-om/DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dev-ops-om/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
