@@ -1,5 +1,9 @@
+bool myComp(const pair<char,int>&a,const pair<char,int>&b){
+        return a.second>b.second;
+    };
 class Solution {
 public:
+ 
     string frequencySort(string s) {
        vector<pair<char,int>>vec(128);
 
@@ -7,10 +11,8 @@ public:
         int freq=vec[ch].second;
         vec[ch]={ch,freq+1};
     }
-    auto lambda=[&](const pair<char,int>&a,const pair<char,int>&b){
-        return a.second>b.second;
-    };
-    sort(vec.begin(),vec.end(),lambda);
+ 
+    sort(vec.begin(),vec.end(),myComp);
     string result="";
     for(int i=0;i<128;i++){
         if(vec[i].second>0){
