@@ -37,6 +37,7 @@ SolvedProblems/
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/dev-ops-om/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dev-ops-om/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/dev-ops-om/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -59,6 +60,7 @@ SolvedProblems/
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/dev-ops-om/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dev-ops-om/DSA/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/dev-ops-om/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -76,6 +78,7 @@ SolvedProblems/
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/dev-ops-om/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dev-ops-om/DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/dev-ops-om/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
