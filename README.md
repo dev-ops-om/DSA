@@ -48,6 +48,7 @@ SolvedProblems/
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/dev-ops-om/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/dev-ops-om/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dev-ops-om/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dev-ops-om/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -64,6 +65,7 @@ SolvedProblems/
 | ------- |
 | [0125-valid-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +95,7 @@ SolvedProblems/
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/dev-ops-om/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -118,6 +121,7 @@ SolvedProblems/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dev-ops-om/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
 ## Simulation
 |  |
 | ------- |
