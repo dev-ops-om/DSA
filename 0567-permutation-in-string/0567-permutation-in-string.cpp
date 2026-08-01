@@ -6,20 +6,27 @@ public:
         
         if (n1 > n2) return false;
         
-        // Sort s1 once
-        string sorted_s1 = s1;
-        sort(sorted_s1.begin(), sorted_s1.end());
+        vector<int> count1(26, 0), count2(26, 0);
         
-        // Slide a window of size n1 across s2
-        for (int i = 0; i <= n2 - n1; i++) {
-            // Extract substring of length n1
-            string sub = s2.substr(i, n1);
+        // Fill frequency array for s1 and the first window of s2
+        for (int i = 0; i < n1; i++) {
+            count1[s1[i] - 'a']++;
+            count2[s2[i] - 'a']++;
+        }
+        
+        // Check first window
+        if (count1 == count2) return true;
+        
+        // Slide the window across s2
+        for (int i = n1; i < n2; i++) {
+            // Add new character coming into the window
+            count2[s2[i] - 'a']++;
             
-            // Sort the substring
-            sort(sub.begin(), sub.end());
+            // Remove old character going out of the window
+            count2[s2[i - n1] - 'a']--;
             
-            // If sorted substring matches sorted s1, a permutation exists!
-            if (sub == sorted_s1) {
+            // Vector comparison in C++ checks if all 26 frequency counts match
+            if (count1 == count2) {
                 return true;
             }
         }
