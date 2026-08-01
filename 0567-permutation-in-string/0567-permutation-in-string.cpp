@@ -6,31 +6,31 @@ public:
         
         if (n1 > n2) return false;
         
-        vector<int> count1(26, 0), count2(26, 0);
-        
-        // Fill frequency array for s1 and the first window of s2
-        for (int i = 0; i < n1; i++) {
-            count1[s1[i] - 'a']++;
-            count2[s2[i] - 'a']++;
+        vector<int> freq_1(26, 0);
+        vector<int> freq_2(26, 0);
+
+        // Build frequency for s1
+        for (char ch : s1) {
+            freq_1[ch - 'a']++;
         }
-        
-        // Check first window
-        if (count1 == count2) return true;
-        
-        // Slide the window across s2
-        for (int i = n1; i < n2; i++) {
-            // Add new character coming into the window
-            count2[s2[i] - 'a']++;
-            
-            // Remove old character going out of the window
-            count2[s2[i - n1] - 'a']--;
-            
-            // Vector comparison in C++ checks if all 26 frequency counts match
-            if (count1 == count2) {
+
+        int i = 0, j = 0;
+        while (j < n2) {
+            freq_2[s2[j] - 'a']++;
+
+            // If window size exceeds n1, shrink from left
+            if ((j - i + 1) > n1) {
+                freq_2[s2[i] - 'a']--;
+                i++;
+            }
+
+            // If window size matches and frequencies equal → found permutation
+            if ((j - i + 1) == n1 && freq_1 == freq_2) {
                 return true;
             }
+
+            j++;
         }
-        
         return false;
     }
 };
