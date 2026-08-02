@@ -1,11 +1,11 @@
 class Solution {
 public:
     int compress(vector<char>& chars) {
-        int i=0;
+        // int i=0;
         int writeIdx=0;
        
-        while(i<chars.size()){
-            char ch=chars[i];
+      for(int i=0;i<chars.size();i++){
+        char ch=chars[i];
              int count=0;
             chars[writeIdx++]=ch;
 
@@ -19,9 +19,11 @@ public:
             chars[writeIdx++]=dig;
 
                 }
+              
 
             }
-        }
+            i--;
+      }
         chars.resize(writeIdx);
         return writeIdx;
     }
