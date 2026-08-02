@@ -47,6 +47,7 @@ SolvedProblems/
 | [0205-isomorphic-strings](https://github.com/dev-ops-om/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/dev-ops-om/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/dev-ops-om/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/dev-ops-om/DSA/tree/master/0796-rotate-string) |
@@ -65,6 +66,7 @@ SolvedProblems/
 | ------- |
 | [0125-valid-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/dev-ops-om/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
