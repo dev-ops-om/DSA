@@ -53,6 +53,7 @@ SolvedProblems/
 | [0796-rotate-string](https://github.com/dev-ops-om/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dev-ops-om/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dev-ops-om/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/dev-ops-om/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/dev-ops-om/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dev-ops-om/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -98,6 +99,7 @@ SolvedProblems/
 | [0409-longest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/dev-ops-om/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/dev-ops-om/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String Matching
 |  |
 | ------- |
