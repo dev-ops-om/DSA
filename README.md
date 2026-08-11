@@ -54,6 +54,7 @@ SolvedProblems/
 | [1021-remove-outermost-parentheses](https://github.com/dev-ops-om/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dev-ops-om/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dev-ops-om/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/dev-ops-om/DSA/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/dev-ops-om/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dev-ops-om/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -109,6 +110,7 @@ SolvedProblems/
 | ------- |
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/dev-ops-om/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1859-sorting-the-sentence](https://github.com/dev-ops-om/DSA/tree/master/1859-sorting-the-sentence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -130,4 +132,8 @@ SolvedProblems/
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dev-ops-om/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/dev-ops-om/DSA/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
