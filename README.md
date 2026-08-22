@@ -53,6 +53,7 @@ SolvedProblems/
 | [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/dev-ops-om/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dev-ops-om/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1392-longest-happy-prefix](https://github.com/dev-ops-om/DSA/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dev-ops-om/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dev-ops-om/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/dev-ops-om/DSA/tree/master/1859-sorting-the-sentence) |
@@ -108,6 +109,7 @@ SolvedProblems/
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/dev-ops-om/DSA/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/dev-ops-om/DSA/tree/master/1392-longest-happy-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -141,4 +143,20 @@ SolvedProblems/
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/dev-ops-om/DSA/tree/master/1859-sorting-the-sentence) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/dev-ops-om/DSA/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/dev-ops-om/DSA/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/dev-ops-om/DSA/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/dev-ops-om/DSA/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
