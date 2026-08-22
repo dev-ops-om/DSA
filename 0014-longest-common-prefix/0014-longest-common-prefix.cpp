@@ -1,17 +1,27 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-       string firstWord=strs[0];
-       for(int i=0;i<firstWord.size();i++){
-        char ch=firstWord[i];
+         sort(strs.begin(),strs.end());
+        int n=strs.size();
+    string first=strs[0];
+    string last=strs[n-1];
 
-        for(int j=1;j<strs.size();j++){
-            if(strs[j].length()<=i || strs[j][i]!=ch )
-            return firstWord.substr(0,i);
+    for(int i=0;i<min(first.size(),last.size());i++){
+        if(first[i]!=last[i]){
+            return strs[0].substr(0,i);
         }
+    }
+    return strs[0];
 
-       }
-       return firstWord;
+
+
 
     }
 };
+// 2. Sorting Lexicographically (Clever Shortcut)
+
+// When an array of strings is sorted alphabetically, the two strings that differ the most will be placed at the very first index (strs[0]) and the very last index (strs[n - 1]).
+
+// If a prefix is shared between the first and last string after sorting, all intermediate strings are mathematically guaranteed to share it too.
+
+// Simply sort the vector, then compare strs[0] and strs.back() character by character until a mismatch occurs.
