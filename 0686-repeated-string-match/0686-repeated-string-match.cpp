@@ -1,65 +1,72 @@
 class Solution {
-private:
-    vector<int> buildLPS(const string& pat) {
-        int m = pat.size();
-        vector<int> lps(m, 0);
-        int len = 0, i = 1;
-
-        while (i < m) {
-            if (pat[i] == pat[len]) {
-                len++;
-                lps[i] = len;
-                i++;
-            } else {
-                if (len != 0) {
-                    len = lps[len - 1];
-                } else {
-                    lps[i] = 0;
-                    i++;
-                }
-            }
-        }
-        return lps;
-    }
-
-    bool kmpSearch(const string& txt, const string& pat, const vector<int>& lps) {
-        int n = txt.size(), m = pat.size();
-        int i = 0, j = 0;
-
-        while (i < n) {
-            if (txt[i] == pat[j]) {
-                i++;
-                j++;
-                if (j == m) return true; // Found pattern
-            } else {
-                if (j != 0) {
-                    j = lps[j - 1];
-                } else {
-                    i++;
-                }
-            }
-        }
-        return false;
-    }
-
 public:
+vector<int>buildLPS(string& s){
+    int m=s.size();
+    int prefix=0;
+    int suffix=1;
+vector<int>lps(m,0);
+    while(suffix<m){
+        if(s[prefix]==s[suffix]){
+            prefix++;
+            lps[suffix]=prefix;
+            suffix++;
+        }
+        else{
+            if(prefix>0){
+                prefix=lps[prefix-1];
+            }else{
+                lps[suffix]=0;
+                suffix++;
+            }
+        }
+    }
+    return lps;
+}
+
+bool kmpSearch(string &a,string &b,vector<int>&lps){
+    int n=a.size();
+    int m=b.size();
+
+    int i=0;
+    int j=0;
+   while(i<n){
+    if(a[i]==b[j]){
+        i++;
+        j++;
+        if(j==m)
+        return true;
+    }
+    else{
+        if(j!=0){
+            j=lps[j-1];
+
+        }else{
+            i++;
+        }
+    }
+   }
+   return false;
+}
+
+
     int repeatedStringMatch(string a, string b) {
-        vector<int> lps = buildLPS(b);
-
-        string repeated = "";
-        int count = 0;
-
-        while (repeated.size() < b.size()) {
-            repeated += a;
-            count++;
+        vector<int>lps=buildLPS(b);
+        string temp=a;
+        int repeated=1;
+        while(temp.size()<b.size()){
+            temp+=a;
+            repeated++;
         }
 
-        if (kmpSearch(repeated, b, lps)) return count;
+        if(kmpSearch(temp,b,lps))
+        return repeated;
 
-        repeated += a;
-        count++;
-        if (kmpSearch(repeated, b, lps)) return count;
+        temp+=a;
+        repeated++;
 
-        return -1;
+      if(kmpSearch(temp,b,lps))
+      return repeated;
+
+      return -1;
     }
 };
