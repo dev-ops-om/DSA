@@ -1,67 +1,64 @@
 class Solution {
+private:
+    vector<int> buildLPS(const string& pat) {
+        int m = pat.size();
+        vector<int> lps(m, 0);
+        int len = 0, i = 1;
+
+        while (i < m) {
+            if (pat[i] == pat[len]) {
+                len++;
+                lps[i] = len;
+                i++;
+            } else {
+                if (len != 0) {
+                    len = lps[len - 1];
+                } else {
+                    lps[i] = 0;
+                    i++;
+                }
+            }
+        }
+        return lps;
+    }
+
+    bool kmpSearch(const string& txt, const string& pat, const vector<int>& lps) {
+        int n = txt.size(), m = pat.size();
+        int i = 0, j = 0;
+
+        while (i < n) {
+            if (txt[i] == pat[j]) {
+                i++;
+                j++;
+                if (j == m) return true; // Found pattern
+            } else {
+                if (j != 0) {
+                    j = lps[j - 1];
+                } else {
+                    i++;
+                }
+            }
+        }
+        return false;
+    }
+
 public:
-void lpsfind(vector<int>&lps,string s){
-      
-        int pre=0;
-        int suf=1;
-    while(suf<s.size()){
-        if(s[pre]==s[suf]){
-            lps[suf]=pre+1;
-            suf++;
-            pre++;
-        }
-        else{
-            if(pre==0){
-                lps[suf]=0;
-                suf++;
-            }
-            else{
-                pre=lps[pre-1];
-            }
-        }
-    }
- }
-    
-    int KMP_MATCH(string haystack, string needle) {
-        vector<int>lps(needle.size(),0);
-        lpsfind(lps,needle);
-        int first =0;
-        int second =0;
-         
-while(first<haystack.size()&&second<needle.size()){
-    if(haystack[first]==needle[second]){
-        first++;
-        second++;
-    }
-    else{
-        if(second==0)
-        first++;
-        else{
-            second=lps[second-1];
-        }
-    }
-    if(second==needle.size())
-    return 1;
-
-}
-return 0;
-
-    }
     int repeatedStringMatch(string a, string b) {
-        if(a==b)
-        return 1;
-        int repeat=1;
-        string temp=a;
-        while(temp.size()<b.size()){
-            temp+=a;
-            repeat++;
+        vector<int> lps = buildLPS(b);
 
+        string repeated = "";
+        int count = 0;
+
+        while (repeated.size() < b.size()) {
+            repeated += a;
+            count++;
         }
-        if(KMP_MATCH(temp,b)==1){
-            return repeat;
-        }
-        if(KMP_MATCH(temp+a,b)==1)
-        return repeat+1;
+
+        if (kmpSearch(repeated, b, lps)) return count;
+
+        repeated += a;
+        count++;
+        if (kmpSearch(repeated, b, lps)) return count;
 
         return -1;
     }
