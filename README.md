@@ -53,6 +53,7 @@ SolvedProblems/
 | [0443-string-compression](https://github.com/dev-ops-om/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/dev-ops-om/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
+| [0686-repeated-string-match](https://github.com/dev-ops-om/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/dev-ops-om/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dev-ops-om/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/dev-ops-om/DSA/tree/master/1392-longest-happy-prefix) |
@@ -113,6 +114,7 @@ SolvedProblems/
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0214-shortest-palindrome) |
+| [0686-repeated-string-match](https://github.com/dev-ops-om/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/dev-ops-om/DSA/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/dev-ops-om/DSA/tree/master/1392-longest-happy-prefix) |
 ## Sorting
@@ -163,17 +165,20 @@ SolvedProblems/
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0214-shortest-palindrome) |
+| [0686-repeated-string-match](https://github.com/dev-ops-om/DSA/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/dev-ops-om/DSA/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0214-shortest-palindrome) |
+| [0686-repeated-string-match](https://github.com/dev-ops-om/DSA/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/dev-ops-om/DSA/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/dev-ops-om/DSA/tree/master/0686-repeated-string-match) |
 ## Manacher
 |  |
 | ------- |
