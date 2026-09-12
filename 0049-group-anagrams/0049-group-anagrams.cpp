@@ -12,7 +12,7 @@ for(const string&s:strs){
 vector<vector<string>>result;
 result.reserve(mp.size());
 for(auto &pair:mp){
- result.push_back(pair.second);
+ result.push_back(move(pair.second));
 
 }
 return result;
