@@ -12,11 +12,11 @@ public:
       int left=0;
       int right=s.size()-1;
       while(left<right){
-            if(!isalphaNum(tolower(s[left]))){
+            while(!isalphaNum(tolower(s[left])) && left<right){
                 left++;
-                continue;
+               
             }
-            if(!isalphaNum(tolower(s[right]))){
+            if(!isalphaNum(tolower(s[right])) && left<right){
                 right--;
                 continue;
             }
