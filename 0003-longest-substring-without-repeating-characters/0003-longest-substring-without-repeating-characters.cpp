@@ -5,20 +5,18 @@ public:
     
         int maxlen=0;
 int ans=0;
-        vector<int>count(256,0);
+        vector<int>count(256,-1);
 
 for(int right=0;right<s.size();right++){
-    while(count[s[right]] && left<right){
-    count[s[left]]=0;
-    left++;
+  if(count[s[right]]!= -1 && count[s[right]]>=left){
+  left=count[s[right]]+1;
 
+  }
+  count[s[right]]=right;
+  maxlen=max(maxlen,right-left+1);
 
-    }
-    count[s[right]]=1;
-    maxlen=right-left+1;
-   ans=max(maxlen,ans);
 
 }
-return ans;
+return maxlen;
     }
 };
