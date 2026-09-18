@@ -11,22 +11,24 @@ return false;
         int ans=0;
         int left=0;
        int right=0;
-      while(right<s.size()){
+     for(int i=0;i<k;i++){
+        if(helper(s[i]))
+        count++;
+     }
+     ans=count;
+
+     for(int right=k;right<s.size();right++){
         if(helper(s[right]))
         count++;
-       if((right-left+1)==k){
-       ans=max(ans,count);
+        if(helper(s[left])){
+        count--;
 
-       if(helper(s[left])){
- count--;
- 
-       }
-       left++;
-       }
-      
-        right++;
+}
+ans=max(ans,count);
+left++;
 
-      }
-        return ans;
+        
+     }
+     return ans;
     }
 };
