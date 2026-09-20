@@ -103,6 +103,7 @@ SolvedProblems/
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dev-ops-om/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
+| [0992-subarrays-with-k-different-integers](https://github.com/dev-ops-om/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Trie
 |  |
 | ------- |
@@ -121,6 +122,7 @@ SolvedProblems/
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dev-ops-om/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/dev-ops-om/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dev-ops-om/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String Matching
 |  |
@@ -150,6 +152,7 @@ SolvedProblems/
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/dev-ops-om/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/dev-ops-om/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -157,6 +160,7 @@ SolvedProblems/
 | [0076-minimum-window-substring](https://github.com/dev-ops-om/DSA/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/dev-ops-om/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dev-ops-om/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
 |  |
