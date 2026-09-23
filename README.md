@@ -44,6 +44,7 @@ SolvedProblems/
 | [0013-roman-to-integer](https://github.com/dev-ops-om/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/dev-ops-om/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/dev-ops-om/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dev-ops-om/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0125-valid-palindrome) |
@@ -114,6 +115,7 @@ SolvedProblems/
 | [0003-longest-substring-without-repeating-characters](https://github.com/dev-ops-om/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/dev-ops-om/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dev-ops-om/DSA/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/dev-ops-om/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dev-ops-om/DSA/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/dev-ops-om/DSA/tree/master/0205-isomorphic-strings) |
@@ -157,6 +159,7 @@ SolvedProblems/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dev-ops-om/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/dev-ops-om/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/dev-ops-om/DSA/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
