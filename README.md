@@ -52,6 +52,7 @@ SolvedProblems/
 | [0205-isomorphic-strings](https://github.com/dev-ops-om/DSA/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/dev-ops-om/DSA/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/dev-ops-om/DSA/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -75,6 +76,7 @@ SolvedProblems/
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/dev-ops-om/DSA/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dev-ops-om/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dev-ops-om/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dev-ops-om/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -216,4 +218,8 @@ SolvedProblems/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-ops-om/DSA/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/dev-ops-om/DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
