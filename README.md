@@ -52,6 +52,7 @@ SolvedProblems/
 | [0205-isomorphic-strings](https://github.com/dev-ops-om/DSA/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
+| [0316-remove-duplicate-letters](https://github.com/dev-ops-om/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/dev-ops-om/DSA/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/dev-ops-om/DSA/tree/master/0415-add-strings) |
@@ -76,6 +77,7 @@ SolvedProblems/
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/dev-ops-om/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/dev-ops-om/DSA/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dev-ops-om/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dev-ops-om/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -102,6 +104,7 @@ SolvedProblems/
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/dev-ops-om/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/dev-ops-om/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/dev-ops-om/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -222,4 +225,8 @@ SolvedProblems/
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/dev-ops-om/DSA/tree/master/0394-decode-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/dev-ops-om/DSA/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
