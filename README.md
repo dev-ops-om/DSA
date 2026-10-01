@@ -54,6 +54,7 @@ SolvedProblems/
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/dev-ops-om/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/dev-ops-om/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/dev-ops-om/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/dev-ops-om/DSA/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -79,6 +80,7 @@ SolvedProblems/
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/dev-ops-om/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/dev-ops-om/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/dev-ops-om/DSA/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/dev-ops-om/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dev-ops-om/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dev-ops-om/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -105,6 +107,7 @@ SolvedProblems/
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/dev-ops-om/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/dev-ops-om/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/dev-ops-om/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/dev-ops-om/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -229,4 +232,5 @@ SolvedProblems/
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/dev-ops-om/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/dev-ops-om/DSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
