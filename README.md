@@ -53,6 +53,7 @@ SolvedProblems/
 | [0214-shortest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/dev-ops-om/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0392-is-subsequence](https://github.com/dev-ops-om/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/dev-ops-om/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/dev-ops-om/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0409-longest-palindrome) |
@@ -94,6 +95,7 @@ SolvedProblems/
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/dev-ops-om/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/dev-ops-om/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/dev-ops-om/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -227,6 +229,7 @@ SolvedProblems/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-ops-om/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/dev-ops-om/DSA/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
