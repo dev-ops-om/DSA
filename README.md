@@ -85,6 +85,7 @@ SolvedProblems/
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dev-ops-om/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dev-ops-om/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dev-ops-om/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/dev-ops-om/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dev-ops-om/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ SolvedProblems/
 | [0402-remove-k-digits](https://github.com/dev-ops-om/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/dev-ops-om/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/dev-ops-om/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/dev-ops-om/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -117,6 +119,7 @@ SolvedProblems/
 | [0014-longest-common-prefix](https://github.com/dev-ops-om/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
 | [0992-subarrays-with-k-different-integers](https://github.com/dev-ops-om/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/dev-ops-om/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -233,4 +236,5 @@ SolvedProblems/
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/dev-ops-om/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/dev-ops-om/DSA/tree/master/0402-remove-k-digits) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/dev-ops-om/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 <!---LeetCode Topics End-->
