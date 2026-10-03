@@ -12,8 +12,9 @@ public:
       int left=0;
       int right=s.size()-1;
       while(left<right){
-            while(!isalphaNum(tolower(s[left])) && left<right){
+            if(!isalphaNum(tolower(s[left])) && left<right){
                 left++;
+                continue;
                
             }
             if(!isalphaNum(tolower(s[right])) && left<right){
