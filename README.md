@@ -62,6 +62,7 @@ SolvedProblems/
 | [0443-string-compression](https://github.com/dev-ops-om/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/dev-ops-om/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/dev-ops-om/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/dev-ops-om/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/dev-ops-om/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/dev-ops-om/DSA/tree/master/0796-rotate-string) |
@@ -98,6 +99,7 @@ SolvedProblems/
 | [0392-is-subsequence](https://github.com/dev-ops-om/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/dev-ops-om/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/dev-ops-om/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/dev-ops-om/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
@@ -230,6 +232,7 @@ SolvedProblems/
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-ops-om/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/dev-ops-om/DSA/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/dev-ops-om/DSA/tree/master/0647-palindromic-substrings) |
 ## Recursion
 |  |
 | ------- |
