@@ -1,30 +1,26 @@
 class Solution {
+private:
+
+int expandAroundCenter(const string& s, int left, int right){
+    int count=0;
+    while(left>=0 && right<s.size() && s[left]==s[right]){
+        count++;
+        left--;
+        right++;
+    }
+    return count;
+}
+
 public:
-int t[1001][1001];
-bool check(string &s,int i,int j){
-    if(i>j){
-        return true;
-    }
-if(t[i][j]!=-1){
-    return t[i][j];
-}
-    if(s[i]==s[j]){
-        return t[i][j]=check(s,i+1,j-1);
-    }
-    return t[i][j]=false;
-}
     int countSubstrings(string s) {
-        int n=s.size();
-        int count=0;
-memset(t,-1,sizeof(t));
-        for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                if(check(s,i,j)){
-                    count++;
-                }
-            
-            }
+        int total_count=0;
+        for(int i=0;i<s.size();i++){
+
+        
+        total_count+=expandAroundCenter(s, i, i);
+
+        total_count+=expandAroundCenter(s, i, i+1);
         }
-        return count;
+return total_count;
     }
 };
