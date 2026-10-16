@@ -51,6 +51,7 @@ SolvedProblems/
 | [0151-reverse-words-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/dev-ops-om/DSA/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0214-shortest-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/dev-ops-om/DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/dev-ops-om/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/dev-ops-om/DSA/tree/master/0392-is-subsequence) |
@@ -81,6 +82,7 @@ SolvedProblems/
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/dev-ops-om/DSA/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/dev-ops-om/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/dev-ops-om/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/dev-ops-om/DSA/tree/master/0402-remove-k-digits) |
@@ -107,6 +109,7 @@ SolvedProblems/
 | ------- |
 | [0012-integer-to-roman](https://github.com/dev-ops-om/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dev-ops-om/DSA/tree/master/0013-roman-to-integer) |
+| [0227-basic-calculator-ii](https://github.com/dev-ops-om/DSA/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/dev-ops-om/DSA/tree/master/0415-add-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/dev-ops-om/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
