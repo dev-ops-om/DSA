@@ -25,6 +25,6 @@ while(i < s.size() && j < pattern.size()) {
     i++; // skip space
 }
 
-return (j == pattern.size() && i >= s.size());
+return (j == pattern.size() && i > s.size());
     }
 };
