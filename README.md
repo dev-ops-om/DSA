@@ -53,6 +53,7 @@ SolvedProblems/
 | [0214-shortest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/dev-ops-om/DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/dev-ops-om/DSA/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/dev-ops-om/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/dev-ops-om/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/dev-ops-om/DSA/tree/master/0394-decode-string) |
@@ -143,6 +144,7 @@ SolvedProblems/
 | [0076-minimum-window-substring](https://github.com/dev-ops-om/DSA/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/dev-ops-om/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/dev-ops-om/DSA/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dev-ops-om/DSA/tree/master/0451-sort-characters-by-frequency) |
