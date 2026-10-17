@@ -1,36 +1,30 @@
 class Solution {
 public:
     bool wordPattern(string pattern, string s) {
-        stringstream ss(s);
-        string word;
-        vector<string>words;
+        unordered_map<char,string> mp1;
+unordered_map<string,char> mp2;
 
-        while(ss>>word){
-            words.push_back(word);
-        }
+int i = 0, j = 0;
 
-        if(pattern.size()!=words.size()){
-            return false;
-        }
+while(i < s.size() && j < pattern.size()) {
+    int start = i;
 
-        unordered_map<char, string> charToWord;
-        unordered_map<string, char> wordToChar;
-for(int i=0;i<pattern.size();i++){
-char c = pattern[i];
-            string w = words[i];
+    while(i < s.size() && s[i] != ' ')
+        i++;
 
-            if (charToWord.find(c)!=charToWord.end() && charToWord[c] != w) {
-                return false;
-            }
+    string word = s.substr(start, i - start);
+    char c = pattern[j];
 
-            if ( wordToChar.find(w)!= wordToChar.end() && charToWord[c] != w) {
-                return false;
-            }
+    if(mp1.count(c) && mp1[c] != word) return false;
+    if(mp2.count(word) && mp2[word] != c) return false;
 
-            charToWord[c] = w;
-            wordToChar[w] = c;
+    mp1[c] = word;
+    mp2[word] = c;
+
+    j++;
+    i++; // skip space
 }
 
-return true;
+return (j == pattern.size() && i >= s.size());
     }
 };
