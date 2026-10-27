@@ -101,6 +101,7 @@ SolvedProblems/
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/dev-ops-om/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/dev-ops-om/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/dev-ops-om/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
@@ -128,6 +129,7 @@ SolvedProblems/
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dev-ops-om/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
+| [0283-move-zeroes](https://github.com/dev-ops-om/DSA/tree/master/0283-move-zeroes) |
 | [0890-find-and-replace-pattern](https://github.com/dev-ops-om/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0992-subarrays-with-k-different-integers](https://github.com/dev-ops-om/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/dev-ops-om/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
