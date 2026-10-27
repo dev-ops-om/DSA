@@ -123,6 +123,7 @@ SolvedProblems/
 | [0409-longest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/dev-ops-om/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/dev-ops-om/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dev-ops-om/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/dev-ops-om/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -133,6 +134,7 @@ SolvedProblems/
 | [0890-find-and-replace-pattern](https://github.com/dev-ops-om/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0992-subarrays-with-k-different-integers](https://github.com/dev-ops-om/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/dev-ops-om/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dev-ops-om/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
 |  |
 | ------- |
@@ -171,6 +173,7 @@ SolvedProblems/
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/dev-ops-om/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dev-ops-om/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1859-sorting-the-sentence](https://github.com/dev-ops-om/DSA/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/2785-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
@@ -196,6 +199,7 @@ SolvedProblems/
 | [0567-permutation-in-string](https://github.com/dev-ops-om/DSA/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/dev-ops-om/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dev-ops-om/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dev-ops-om/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Simulation
 |  |
 | ------- |
@@ -257,4 +261,12 @@ SolvedProblems/
 | [0316-remove-duplicate-letters](https://github.com/dev-ops-om/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/dev-ops-om/DSA/tree/master/0402-remove-k-digits) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/dev-ops-om/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dev-ops-om/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dev-ops-om/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
