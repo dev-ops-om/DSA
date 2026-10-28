@@ -133,6 +133,7 @@ SolvedProblems/
 | [0014-longest-common-prefix](https://github.com/dev-ops-om/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
 | [0283-move-zeroes](https://github.com/dev-ops-om/DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/dev-ops-om/DSA/tree/master/0485-max-consecutive-ones) |
 | [0890-find-and-replace-pattern](https://github.com/dev-ops-om/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0992-subarrays-with-k-different-integers](https://github.com/dev-ops-om/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/dev-ops-om/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
