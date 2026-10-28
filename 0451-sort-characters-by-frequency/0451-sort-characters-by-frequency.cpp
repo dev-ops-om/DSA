@@ -1,27 +1,30 @@
-bool myComp(const pair<char,int>&a,const pair<char,int>&b){
-        return a.second>b.second;
-    };
+
+
+bool lambda(const pair<char, int>& a, const pair<char, int>& b) {
+    return a.second > b.second;   //decreasing order
+}
 class Solution {
 public:
  
     string frequencySort(string s) {
-       vector<pair<char,int>>vec(128);
+      vector<pair<char,int>>freq(128);
 
-    for(char &ch:s){
-        int freq=vec[ch].second;
-        vec[ch]={ch,freq+1};
-    }
- 
-    sort(vec.begin(),vec.end(),myComp);
-    string result="";
-    for(int i=0;i<128;i++){
-        if(vec[i].second>0){
-            char ch=vec[i].first;
-            int freq=vec[i].second;
-            string temp=string(freq,ch);
-            result+=temp;
+      for(char ch:s){
+        int temp=freq[ch].second;
+        freq[ch]={ch,temp+1};
+      }
+
+      sort(freq.begin(),freq.end(),lambda);
+      string ans="";
+        for(int i=0;i<128;i++){
+            if(freq[i].second>0){
+                int temp=freq[i].second;
+                char ch=freq[i].first;
+                ans+=string(temp,ch);
+            }
         }
-    }
-    return result;
+    return ans;
+
+
     }
 };
