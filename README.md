@@ -134,6 +134,7 @@ SolvedProblems/
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dev-ops-om/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/dev-ops-om/DSA/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/dev-ops-om/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dev-ops-om/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dev-ops-om/DSA/tree/master/0283-move-zeroes) |
@@ -263,6 +264,7 @@ SolvedProblems/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-ops-om/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/dev-ops-om/DSA/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/dev-ops-om/DSA/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/dev-ops-om/DSA/tree/master/0647-palindromic-substrings) |
 ## Recursion
