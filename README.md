@@ -133,6 +133,7 @@ SolvedProblems/
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dev-ops-om/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/dev-ops-om/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dev-ops-om/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dev-ops-om/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dev-ops-om/DSA/tree/master/0485-max-consecutive-ones) |
@@ -153,6 +154,7 @@ SolvedProblems/
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dev-ops-om/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dev-ops-om/DSA/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/dev-ops-om/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dev-ops-om/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dev-ops-om/DSA/tree/master/0268-missing-number) |
@@ -177,6 +179,7 @@ SolvedProblems/
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/dev-ops-om/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dev-ops-om/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/dev-ops-om/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -194,6 +197,7 @@ SolvedProblems/
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dev-ops-om/DSA/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/dev-ops-om/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/dev-ops-om/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
@@ -281,4 +285,12 @@ SolvedProblems/
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dev-ops-om/DSA/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dev-ops-om/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dev-ops-om/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
