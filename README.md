@@ -115,6 +115,7 @@ SolvedProblems/
 | [0012-integer-to-roman](https://github.com/dev-ops-om/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dev-ops-om/DSA/tree/master/0013-roman-to-integer) |
 | [0227-basic-calculator-ii](https://github.com/dev-ops-om/DSA/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/dev-ops-om/DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/dev-ops-om/DSA/tree/master/0415-add-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/dev-ops-om/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -132,6 +133,7 @@ SolvedProblems/
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dev-ops-om/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/dev-ops-om/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dev-ops-om/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dev-ops-om/DSA/tree/master/0485-max-consecutive-ones) |
 | [0890-find-and-replace-pattern](https://github.com/dev-ops-om/DSA/tree/master/0890-find-and-replace-pattern) |
@@ -153,6 +155,7 @@ SolvedProblems/
 | [0076-minimum-window-substring](https://github.com/dev-ops-om/DSA/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/dev-ops-om/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/dev-ops-om/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/dev-ops-om/DSA/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -175,6 +178,7 @@ SolvedProblems/
 | ------- |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/dev-ops-om/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/dev-ops-om/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/dev-ops-om/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1859-sorting-the-sentence](https://github.com/dev-ops-om/DSA/tree/master/1859-sorting-the-sentence) |
@@ -267,9 +271,14 @@ SolvedProblems/
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dev-ops-om/DSA/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/dev-ops-om/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/dev-ops-om/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dev-ops-om/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
