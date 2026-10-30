@@ -136,6 +136,7 @@ SolvedProblems/
 | [0014-longest-common-prefix](https://github.com/dev-ops-om/DSA/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/dev-ops-om/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/dev-ops-om/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/dev-ops-om/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dev-ops-om/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/dev-ops-om/DSA/tree/master/0169-majority-element) |
@@ -159,6 +160,7 @@ SolvedProblems/
 | [0013-roman-to-integer](https://github.com/dev-ops-om/DSA/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dev-ops-om/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/dev-ops-om/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/dev-ops-om/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/dev-ops-om/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dev-ops-om/DSA/tree/master/0205-isomorphic-strings) |
@@ -306,4 +308,5 @@ SolvedProblems/
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dev-ops-om/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/dev-ops-om/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
