@@ -99,6 +99,7 @@ SolvedProblems/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-ops-om/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/dev-ops-om/DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -134,6 +135,7 @@ SolvedProblems/
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dev-ops-om/DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/dev-ops-om/DSA/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/dev-ops-om/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dev-ops-om/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -186,6 +188,7 @@ SolvedProblems/
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dev-ops-om/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/dev-ops-om/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
