@@ -115,6 +115,7 @@ SolvedProblems/
 | ------- |
 | [0012-integer-to-roman](https://github.com/dev-ops-om/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dev-ops-om/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/dev-ops-om/DSA/tree/master/0048-rotate-image) |
 | [0227-basic-calculator-ii](https://github.com/dev-ops-om/DSA/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/dev-ops-om/DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/dev-ops-om/DSA/tree/master/0415-add-strings) |
@@ -133,6 +134,7 @@ SolvedProblems/
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dev-ops-om/DSA/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/dev-ops-om/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/dev-ops-om/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dev-ops-om/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -300,4 +302,8 @@ SolvedProblems/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dev-ops-om/DSA/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/dev-ops-om/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
