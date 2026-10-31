@@ -102,6 +102,7 @@ SolvedProblems/
 | [0015-3sum](https://github.com/dev-ops-om/DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/dev-ops-om/DSA/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/dev-ops-om/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/dev-ops-om/DSA/tree/master/0283-move-zeroes) |
@@ -141,6 +142,7 @@ SolvedProblems/
 | [0048-rotate-image](https://github.com/dev-ops-om/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dev-ops-om/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/dev-ops-om/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/dev-ops-om/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dev-ops-om/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/dev-ops-om/DSA/tree/master/0152-maximum-product-subarray) |
@@ -193,6 +195,7 @@ SolvedProblems/
 | ------- |
 | [0015-3sum](https://github.com/dev-ops-om/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/dev-ops-om/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dev-ops-om/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/dev-ops-om/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dev-ops-om/DSA/tree/master/0268-missing-number) |
