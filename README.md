@@ -100,6 +100,7 @@ SolvedProblems/
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-ops-om/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/dev-ops-om/DSA/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dev-ops-om/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/dev-ops-om/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/dev-ops-om/DSA/tree/master/0088-merge-sorted-array) |
@@ -319,4 +320,8 @@ SolvedProblems/
 | ------- |
 | [0048-rotate-image](https://github.com/dev-ops-om/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/dev-ops-om/DSA/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dev-ops-om/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
