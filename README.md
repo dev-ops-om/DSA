@@ -85,6 +85,7 @@ SolvedProblems/
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dev-ops-om/DSA/tree/master/0042-trapping-rain-water) |
 | [0227-basic-calculator-ii](https://github.com/dev-ops-om/DSA/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/dev-ops-om/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/dev-ops-om/DSA/tree/master/0394-decode-string) |
@@ -103,6 +104,7 @@ SolvedProblems/
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dev-ops-om/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/dev-ops-om/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/dev-ops-om/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/dev-ops-om/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dev-ops-om/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dev-ops-om/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -140,6 +142,7 @@ SolvedProblems/
 | [0014-longest-common-prefix](https://github.com/dev-ops-om/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/dev-ops-om/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/dev-ops-om/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/dev-ops-om/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/dev-ops-om/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dev-ops-om/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dev-ops-om/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -279,6 +282,7 @@ SolvedProblems/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-ops-om/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/dev-ops-om/DSA/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/dev-ops-om/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dev-ops-om/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/dev-ops-om/DSA/tree/master/0152-maximum-product-subarray) |
@@ -291,6 +295,7 @@ SolvedProblems/
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dev-ops-om/DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/dev-ops-om/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/dev-ops-om/DSA/tree/master/0402-remove-k-digits) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/dev-ops-om/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
