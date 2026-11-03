@@ -155,6 +155,7 @@ SolvedProblems/
 | [0268-missing-number](https://github.com/dev-ops-om/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dev-ops-om/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dev-ops-om/DSA/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/dev-ops-om/DSA/tree/master/0704-binary-search) |
 | [0890-find-and-replace-pattern](https://github.com/dev-ops-om/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0992-subarrays-with-k-different-integers](https://github.com/dev-ops-om/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/dev-ops-om/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -306,6 +307,7 @@ SolvedProblems/
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dev-ops-om/DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/dev-ops-om/DSA/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/dev-ops-om/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
