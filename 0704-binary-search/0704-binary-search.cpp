@@ -9,7 +9,7 @@ int helper(vector<int>& arr, int target,int start,int end){
             return mid;
         }
         else if(arr[mid]>target){
-            return helper(arr,target,start,mid-1);
+        return   helper(arr,target,start,mid-1);
         }
         else{
            return helper(arr,target,mid+1,end);
